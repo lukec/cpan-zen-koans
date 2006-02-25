@@ -22,53 +22,53 @@ EOK
     {
       title => "Finding a Diamond on a Muddy Road", 
       body => <<'EOK',
-Gudo was the emperor's teacher of his time. Nevertheless, he used to travel alone as a wandering mendicant. Once when he was on his way toEdo, the cultural and political center of the shogunate, he approached alittle village named Takenaka. It was evening and a heavy rain wasfalling. Gudo was thoroughly wet. His straw sandals were in pieces. Ata farmhouse near the village he noticed four or five pairs of sandals inthe window and decided to buy some dry ones. 
-The woman who offered him the sandals, seeing how wet he was, invited him in to remain for the night in her home. Gudo accepted, thanking her.He entered and recited a sutra before the family shrine. He was thenintroduced to the women's mother, and to her children. Observing that theentire family was depressed, Gudo asked what was wrong. 
-"My husband is a gambler and a drunkard," the housewife told him. "When hehappens to win he drinks and becomes abusive. When he loses he borrows moneyfrom others. Sometimes when he becomes thoroughly drunk he does not come homeat all. What can I do?"
-"I will help him," said Gudo. "Here is some money. Get me a gallon offine wine and something good to eat. Then you may retire. I will meditatebefore the shrine." 
-When the man of the house returned about midnight, quite drunk, he bellowed:"Hey, wife, I am home. Have you something for me to eat?"
-"I have something for you," said Gudo. "I happened to be caught in therain and your wife kindly asked me to remain here for the night. In returnI have bought some wine and fish, so you might as well have them." 
-The man was delighted. He drank the wine at once and laid himself downon the floor. Gudo sat in meditation beside him. 
-In the morning when the husband awoke he had forgotten about theprevious night. "Who are you? Where do you come from?" he asked Gudo, whowas still meditating. 
+Gudo was the emperor's teacher of his time. Nevertheless, he used to travel alone as a wandering mendicant. Once when he was on his way to Edo, the cultural and political center of the shogunate, he approached alittle village named Takenaka. It was evening and a heavy rain was falling. Gudo was thoroughly wet. His straw sandals were in pieces. At a farmhouse near the village he noticed four or five pairs of sandals in the window and decided to buy some dry ones. 
+The woman who offered him the sandals, seeing how wet he was, invited him in to remain for the night in her home. Gudo accepted, thanking her.  He entered and recited a sutra before the family shrine.  He was then introduced to the women's mother, and to her children.  Observing that theentire family was depressed, Gudo asked what was wrong. 
+"My husband is a gambler and a drunkard," the housewife told him. "When he happens to win he drinks and becomes abusive. When he loses he borrows money from others. Sometimes when he becomes thoroughly drunk he does not come home at all.  What can I do?"
+"I will help him," said Gudo. "Here is some money. Get me a gallon of fine wine and something good to eat. Then you may retire. I will meditate before the shrine." 
+When the man of the house returned about midnight, quite drunk, he bellowed: "Hey, wife, I am home. Have you something for me to eat?"
+"I have something for you," said Gudo. "I happened to be caught in the rain and your wife kindly asked me to remain here for the night. In return I have bought some wine and fish, so you might as well have them." 
+The man was delighted. He drank the wine at once and laid himself down on the floor. Gudo sat in meditation beside him. 
+In the morning when the husband awoke he had forgotten about the previous night. "Who are you? Where do you come from?" he asked Gudo, who was still meditating. 
 "I am Gudo of Kyoto and I am going on to Edo," replied the Zen master.
-The man was utterly ashamed. He apologized profusely to the teacher ofhis emperor. 
-Gudo smiled. "Everything in this life is impermanent," he explained."Life is very brief. If you keep on gambling and drinking, you will haveno time left to accomplish anything else, and you will cause your familyto suffer too." 
-The perception of the husband awoke as if from a dream. "You areright," he declared. "How can I ever repay you for this wonderfulteaching! Let me see you off and carry your things a little way." 
+The man was utterly ashamed. He apologized profusely to the teacher of his emperor. 
+Gudo smiled. "Everything in this life is impermanent," he explained."Life is very brief. If you keep on gambling and drinking, you will have no time left to accomplish anything else, and you will cause your family to suffer too." 
+The perception of the husband awoke as if from a dream. "You are right," he declared. "How can I ever repay you for this wonderful teaching! Let me see you off and carry your things a little way." 
 "If you wish," assented Gudo.
-The two started out. After they had gone three miles Gudo told him toreturn. "Just another five miles," he begged Gudo. They continued on. 
+The two started out. After they had gone three miles Gudo told him to return. "Just another five miles," he begged Gudo. They continued on. 
 "You may return now," suggested Gudo.
 "After another ten miles," the man replied.
 "Return now," said Gudo, when the ten miles had been passed.
 "I am going to follow you all the rest of my life," declared the man.
-Modern Zen teachings in Japan spring from the lineage of a famous masterwho was the successor of Gudo. His name was Mu-nan, the man who never turnedback.
+Modern Zen teachings in Japan spring from the lineage of a famous master who was the successor of Gudo. His name was Mu-nan, the man who never turnedback.
 EOK
     },
 
     {
       title => "Is That So?", 
       body => <<'EOK',
-The Zen master Hakuin was praised by his neighbours as one living apure life. 
-A beautiful Japanese girl whose parents owned a food store lived near him.Suddenly, without any warning, her parents discovered she was with child.
-This made her parents angry. She would not confess who the man was, butafter much harassment at last named Hakuin.
-In great anger the parent went to the master. "Is that so?" was all hewould say. 
-After the child was born it was brought to Hakuin. By this time he hadlost his reputation, which did not trouble him, but he took very good careof the child. He obtained milk from his neighbours and everything else heneeded. 
-A year later the girl-mother could stand it no longer. She told herparents the truth - the real father of the child was a young man whoworked in the fishmarket. 
-The mother and father of the girl at once went to Hakuin to askforgiveness, to apologize at length, and to get the child back. 
-Hakuin was willing. In yielding the child, all he said was: "Is thatso?"
+The Zen master Hakuin was praised by his neighbours as one living a pure life. 
+A beautiful Japanese girl whose parents owned a food store lived near him.  Suddenly, without any warning, her parents discovered she had a child.
+This made her parents angry. She would not confess who the man was, but after much harassment at last named Hakuin.
+In great anger the parent went to the master. "Is that so?" was all he would say. 
+After the child was born it was brought to Hakuin. By this time he had lost his reputation, which did not trouble him, but he took very good care of the child. He obtained milk from his neighbours and everything else he needed. 
+A year later the girl-mother could stand it no longer. She told her parents the truth - the real father of the child was a young man who worked in the fish market. 
+The mother and father of the girl at once went to Hakuin to ask forgiveness, to apologize at length, and to get the child back. 
+Hakuin was willing. In yielding the child, all he said was: "Is that so?"
 EOK
     },
 
     {
       title => "Obedience", 
       body => <<'EOK',
-The master Bankei's talks were attended not only by Zen students but bypersons of all ranks and sects. He never quoted sutras not indulged inscholastic dissertations. Instead, his words were spoken directly from hisheart to the hearts of his listeners.
-His large audience angered a priest of the Nichiren sect because theadherents had left to hear about Zen. The self-centered Nichiren priestcame to the temple, determined to have a debate with Bankei.
-"Hey, Zen teacher!" he called out. "Wait a minute. Whoever respects youwill obey what you say, but a man like myself does not respect you. Canyou make me obey you?"
+The master Bankei's talks were attended not only by Zen students but by persons of all ranks and sects. He never quoted sutras nor indulged inscholastic dissertations. Instead, his words were spoken directly from his heart to the hearts of his listeners.
+His large audience angered a priest of the Nichiren sect because the adherents had left to hear about Zen. The self-centered Nichiren priest came to the temple, determined to have a debate with Bankei.
+"Hey, Zen teacher!" he called out. "Wait a minute. Whoever respects youwill obey what you say, but a man like myself does not respect you. Can you make me obey you?"
 "Come up beside me and I will show you," said Bankei.
 Proudly the priest pushed his way through the crowd to the teacher.
 Bankei smiled. "Come over to my left side."
 The priest obeyed.
-"No," said Bankei, "we may talk better if you are on the right side.Step over here." 
+"No," said Bankei, "we may talk better if you are on the right side.  Step over here." 
 The priest proudly stepped over to the right.
 "You see," observed Bankei, "you are obeying me and I think you are avery gentle person. Now sit down and listen."
 EOK
@@ -77,21 +77,21 @@ EOK
     {
       title => "If You Love, Love Openly", 
       body => <<'EOK',
-Twenty monks and one nun, who was named Eshun, were practicingmeditation with a certain Zen master.
-Eshun was very pretty even though her head was shaved and her dressplain. Several monks secretly fell in love with her. One of them wroteher a love letter, insisting upon a private meeting.
-Eshun did not reply. The following day the master gave a lecture to thegroup, and when it was over, Eshun arose. Addressing the one who hadwritten to her, she said: "If you really love me so much, come and embraceme now."
+Twenty monks and one nun, who was named Eshun, were practicing meditation with a certain Zen master.
+Eshun was very pretty even though her head was shaved and her dress plain. Several monks secretly fell in love with her. One of them wrote her a love letter, insisting upon a private meeting.
+Eshun did not reply. The following day the master gave a lecture to the group, and when it was over, Eshun arose. Addressing the one who had written to her, she said: "If you really love me so much, come and embrace me now."
 EOK
     },
 
     {
       title => "No Loving-Kindness", 
       body => <<'EOK',
-There was an old woman in China who had supported a monk for overtwenty years. She had built a little hut for him and fed him while he wasmeditating. Finally she wondered just what progress he had made in allthis time. 
-To find out, she obtained the help of a girl rich in desire. "Go and embracehim," she told her, "and then ask him suddenly: 'What now?'"
-The girl called upon the monk and without much ado caressed him, askinghim what he was going to do about it. 
-"An old tree grows on a cold rock in winter," replied the monk somewhatpoetically. "Nowhere is there any warmth."
+There was an old woman in China who had supported a monk for over twenty years. She had built a little hut for him and fed him while he was meditating. Finally she wondered just what progress he had made in all this time. 
+To find out, she obtained the help of a girl rich in desire. "Go and embrace him," she told her, "and then ask him suddenly: 'What now?'"
+The girl called upon the monk and without much ado caressed him, asking him what he was going to do about it. 
+"An old tree grows on a cold rock in winter," replied the monk somewhat poetically. "Nowhere is there any warmth."
 The girl returned and related what he had said.
-"To think I fed that fellow for twenty years!" exclaimed the old womanin anger. "He showed no consideration for your needs, no disposition toexplain your condition. He need not have responded to passion, but atleast he should have evidenced some compassion."
+"To think I fed that fellow for twenty years!" exclaimed the old woman in anger. "He showed no consideration for your needs, no disposition to explain your condition. He need not have responded to passion, but atleast he should have evidenced some compassion."
 She at once went to the hut of the monk and burned it down.
 EOK
     },
@@ -99,10 +99,10 @@ EOK
     {
       title => "Announcement", 
       body => <<'EOK',
-Tanzan wrote sixty postal cards on the last day of his life, and askedan attendent to mail them. Then he passed away. 
+Tanzan wrote sixty postal cards on the last day of his life, and asked an attendent to mail them. Then he passed away. 
 The cards read:
 
-<dl><dd><i>I am departing from this world.</i><br><i>This is my last announcement.</i><dl><dl><dd><i>Tanzan</i><br><i>July 27, 1892</i></dd></dl></dl></dd></dl>
+I am departing from this world.  This is my last announcement.  Tanzan  July 27, 1892
 EOK
     },
 
@@ -122,77 +122,80 @@ EOK
     {
       title => "The Moon Cannot Be Stolen", 
       body => <<'EOK',
-Ryokan, a Zen master, lived the simplest kind of life in a little hutat the foot of a mountain. One evening a thief visited the hut only todiscover there was nothing to steal.
-Ryokan returned and caught him. "You have come a long way to visitme," he told the prowler, "and you should not return empty-handed. Pleasetake my clothes as a gift."
+Ryokan, a Zen master, lived the simplest kind of life in a little hut at the foot of a mountain. One evening a thief visited the hut only to discover there was nothing to steal.
+Ryokan returned and caught him. "You have come a long way to visit me," he told the prowler, "and you should not return empty-handed. Please take my clothes as a gift."
 The thief was bewildered. He took the clothes and slunk away.
-Ryoken sat naked, watching the moon. "Poor fellow," he mused, "I wishI could have given him this beautiful moon."
+Ryoken sat naked, watching the moon. "Poor fellow," he mused, "I wish I could have given him this beautiful moon."
 EOK
     },
 
     {
       title => "The Last Poem of Hoshin", 
       body => <<'EOK',
-The Zen Master Hoshin lived in China many years. Then he returned tothe northeastern part of Japan, where he taught his disciples. When he wasgetting very old, he told them a story he had heard in China. This is thestory: 
-One year on the twenty-fifth of December, Tokufu, who was very old,said to his disciples: "I am not going to be alive next year so youfellows should treat me well this year."
-The pupils thought he was joking, but since he was a great-heartedteacher each of them in turn treated him to a feast on succeeding days ofthe departing year.
-On the eve of the new year, Tokufu concluded: "You have been good tome. I shall leave tomorrow afternoon when the snow has stopped."
-The disciples laughed, thinking he was aging and talking nonsensesince the night was clear and without snow. But at midnight snow began tofall, and the next day they did not find their teacher about. They wentto the meditation hall. There he had passed on.
-Hoshin, who related this story, told his disciples: "It is notnecessary for a Zen master to predict his passing, but if he really wishesto do so, he can."
+The Zen Master Hoshin lived in China many years. Then he returned to the northeastern part of Japan, where he taught his disciples. When he was getting very old, he told them a story he had heard in China. This is the story: 
+One year on the twenty-fifth of December, Tokufu, who was very old, said to his disciples: "I am not going to be alive next year so you fellows should treat me well this year."
+The pupils thought he was joking, but since he was a great-hearted teacher each of them in turn treated him to a feast on succeeding days of the departing year.
+On the eve of the new year, Tokufu concluded: "You have been good to me. I shall leave tomorrow afternoon when the snow has stopped."
+The disciples laughed, thinking he was aging and talking nonsense since the night was clear and without snow. But at midnight snow began to fall, and the next day they did not find their teacher about. They went to the meditation hall. There he had passed on.
+Hoshin, who related this story, told his disciples: "It is not necessary for a Zen master to predict his passing, but if he really wishes to do so, he can."
 "Can you?" someone asked.
-"Yes," answered Hoshin. "I will show you what I can do seven days fromnow."
-None of the disciples believed him, and most of them had even forgottenthe conversation when Hoshin called them together.
-"Seven days ago," he remarked, "I said I was going to leave you.  It iscustomary to write a farewell poem, but I am neither a poet or acalligrapher. Let one of you inscribe my last words."
+"Yes," answered Hoshin. "I will show you what I can do seven days from now."
+None of the disciples believed him, and most of them had even forgotten the conversation when Hoshin called them together.
+"Seven days ago," he remarked, "I said I was going to leave you.  It is customary to write a farewell poem, but I am neither a poet or a calligrapher. Let one of you inscribe my last words."
 His followers thought he was joking, but one of them started to write.
 "Are you ready?" Hoshin asked.
 "Yes sir," replied the writer.
 Then Hoshin dictated:
 
-<dl><dl><dd><i>I came from brillancy<br>And return to brillancy.<br>What is this?</i></dd></dl></dl>
-This line was one line short of the customary four, so the disciplesaid: "Master, we are one line short."
-Hoshin, with the roar of a conquering lion, shouted "Kaa!" and wasgone.
+I came from brillancy
+And return to brillancy.
+What is this?
+
+This line was one line short of the customary four, so the disciple said: "Master, we are one line short."
+Hoshin, with the roar of a conquering lion, shouted "Kaa!" and was gone.
 EOK
     },
 
     {
       title => "The Story of Shunkai", 
       body => <<'EOK',
-The exquisite Shunkai whose other name was Suzu was compelled to marryagainst her wishes when she was quite young. Later, after this marriagehad ended, she attended the university, where she studied philosophy.
-To see Shunkai was to fall in love with her. Moreover, wherever shewent, she herself fell in love with others. Love was with her at theuniversity, and afterwards when philosophy did not satisfy her and shevisited the temple to learn about Zen, the Zen students fell in love withher. Shunkai's whole life was saturated with love.
-At last in Kyoto she became a real student of Zen. Her brothers in thesub-temple of Kennin praised her sincerity. One of them proved to be acongenial spirit and assisted her in the mastery of Zen.
-The abbot of Kennin, Mokurai, Silent Thunder, was severe. He kept theprecepts himself and expected the priests to do so. In modern Japanwhatever zeal these priests have lost for Buddhism they seemed to havegained for having wives. Mokurai used to take a broom and chase the womenaway when he found them in any of his temples, but the more wives he sweptout, the more seemed to come back.
-In this particular temple the wife of the head priest had becomejealous of Shunkai's earnestness and beauty. Hearing the students praiseher serious Zen made this wife squirm and itch. Finally she spread arumor about that Shunkai and the young man who was her friend. As aconsequence he was expelled and Shunkai was removed from the temple.
-"I may have made the mistake of love," thought Shunkai, "but thepriest's wife shall not remain in the temple either if my friend is to betreated so unjustly."
-Shunkai the same night with a can of kerosene set fire to thefive-hundred-year-old temple and burned it to the ground. In the morningshe found herself in the hands of the police.
-A young lawyer became interested in her and endeavoured to make hersentance lighter. "Do not help me." she told him. "I might decide to dosomething else which will only imprison me again."
-At last a sentance of seven years was completed, and Shunkai wasreleased from the prison, where the sixty-year-old warden also had becomeenamored of her.
-But now everyone looked upon her as a "jailbird". No one wouldassociate with her. Even the Zen people, who are supposed to believe inenlightenment in this life and with this body, shunned her. Zen, Shunkaifound, was one thing and the followers of Zen quite another. Her relativeswould have nothing to do with her. She grew sick, poor, and weak.
-She met a Shinshu priest who taught her the name of the Buddha of Love,and in this Shunkai found some solace and peace of mind. She passed awaywhen she was still exquisitely beautiful and hardly thirty years old.
-She wrote her own story in a futile endeavour to support herself andsome of it she told to a women writer. So it reached the Japanese people. Those who rejected Shunkai, those who slandered and hated her, now read ofher life with tears of remorse.
+The exquisite Shunkai whose other name was Suzu was compelled to marry against her wishes when she was quite young. Later, after this marriage had ended, she attended the university, where she studied philosophy.
+To see Shunkai was to fall in love with her. Moreover, wherever she went, she herself fell in love with others. Love was with her at the university, and afterwards when philosophy did not satisfy her and she visited the temple to learn about Zen, the Zen students fell in love with her. Shunkai's whole life was saturated with love.
+At last in Kyoto she became a real student of Zen. Her brothers in the sub-temple of Kennin praised her sincerity. One of them proved to be a congenial spirit and assisted her in the mastery of Zen.
+The abbot of Kennin, Mokurai, Silent Thunder, was severe. He kept the precepts himself and expected the priests to do so. In modern Japan whatever zeal these priests have lost for Buddhism they seemed to have gained for having wives. Mokurai used to take a broom and chase the women away when he found them in any of his temples, but the more wives he sweptout, the more seemed to come back.
+In this particular temple the wife of the head priest had become jealous of Shunkai's earnestness and beauty. Hearing the students praise her serious Zen made this wife squirm and itch. Finally she spread a rumor about that Shunkai and the young man who was her friend. As a consequence he was expelled and Shunkai was removed from the temple.
+"I may have made the mistake of love," thought Shunkai, "but the priest's wife shall not remain in the temple either if my friend is to be treated so unjustly."
+Shunkai the same night with a can of kerosene set fire to the five-hundred-year-old temple and burned it to the ground. In the morning she found herself in the hands of the police.
+A young lawyer became interested in her and endeavoured to make her sentence lighter. "Do not help me." she told him. "I might decide to do something else which will only imprison me again."
+At last a sentance of seven years was completed, and Shunkai was released from the prison, where the sixty-year-old warden also had become enamored of her.
+But now everyone looked upon her as a "jailbird". No one would associate with her. Even the Zen people, who are supposed to believe inenlightenment in this life and with this body, shunned her. Zen, Shunkai found, was one thing and the followers of Zen quite another. Her relatives would have nothing to do with her. She grew sick, poor, and weak.
+She met a Shinshu priest who taught her the name of the Buddha of Love, and in this Shunkai found some solace and peace of mind. She passed away when she was still exquisitely beautiful and hardly thirty years old.
+She wrote her own story in a futile endeavour to support herself and some of it she told to a women writer. So it reached the Japanese people. Those who rejected Shunkai, those who slandered and hated her, now read of her life with tears of remorse.
 EOK
     },
 
     {
       title => "Happy Chinaman", 
       body => <<'EOK',
-Anyone walking about Chinatowns in America with observe statues of astout fellow carrying a linen sack. Chinese merchants call him HappyChinaman or Laughing Buddha.
-This Hotei lived in the T'ang dynasty. He had no desire to callhimself a Zen master or to gather many disciples about him. Instead hewalked the streets with a big sack into which he would put gifts of candy,fruit, or doughnuts. These he would give to children who gathered aroundhim in play. He established a kindergarten of the streets.
-Whenever he met a Zen devotee he would extend his hand and say: "Giveme one penny." And if anyone asked him to return to a temple to teachothers, again he would reply: "Give me one penny."
-Once he was about his play-work another Zen master happened along andinquired: "What is the significance of Zen?"
+Anyone walking about Chinatowns in America will observe statues of a stout fellow carrying a linen sack. Chinese merchants call him Happy Chinaman or Laughing Buddha.
+This Hotei lived in the T'ang dynasty. He had no desire to call himself a Zen master or to gather many disciples about him. Instead he walked the streets with a big sack into which he would put gifts of candy, fruit, or doughnuts. These he would give to children who gathered around him in play. He established a kindergarten of the streets.
+Whenever he met a Zen devotee he would extend his hand and say: "Givewme one penny." And if anyone asked him to return to a temple to teach others, again he would reply: "Give me one penny."
+Once he was about his play-work when another Zen master happened along and inquired: "What is the significance of Zen?"
 Hotei immediately plopped his sack down on the ground in silent answer.
 "Then," asked the other, "what is the actualization of Zen?"
-At once the Happy Chinaman swung the sack over his shoulder andcontinued on his way.
+At once the Happy Chinaman swung the sack over his shoulder and continued on his way.
 EOK
     },
 
     {
       title => "A Buddha", 
       body => <<'EOK',
-In Tokyo in the Meiji era there lived two prominent teachers ofopposite characteristics. One, Unsho, an instructor in Shingon, keptBuddha's precepts scrupulously. He never drank intoxicants, nor did heeat after eleven o'clock in the morning. The other teacher, Tanzan, aprofessor of philosophy at the Imperial University, never observed theprecepts. Whenever he felt like eating, he ate, and when he felt likesleeping in the daytime he slept.
-One day Unsho visited Tanzan, who was drinking wine at the time, noteven a drop of which is suppposed to touch the tongue of a Buddhist.
+In Tokyo in the Meiji era there lived two prominent teachers of opposite characteristics. One, Unsho, an instructor in Shingon, kept Buddha's precepts scrupulously. He never drank intoxicants, nor did he eat after eleven o'clock in the morning. The other teacher, Tanzan, a professor of philosophy at the Imperial University, never observed the precepts. Whenever he felt like eating, he ate, and when he felt like sleeping in the daytime he slept.
+One day Unsho visited Tanzan, who was drinking wine at the time, not even a drop of which is suppposed to touch the tongue of a Buddhist.
 "Hello, brother," Tanzan greeted him. "Won't you have a drink?"
 "I never drink!" exclaimed Unsho solemnly.
 "One who does not drink is not even human," said Tanzan.
-"Do you mean to call me inhuman just because I do not indulge inintoxicating liquids!" exclaimed Unsho in anger. "Then if I am not human,what am I?"
+"Do you mean to call me inhuman just because I do not indulge inintoxicating liquids!" exclaimed Unsho in anger. "Then if I am not human, what am I?"
 "A Buddha," answered Tanzan.
 EOK
     },
@@ -209,19 +212,24 @@ EOK
     },
 
     {
-      title => "Shoun &amp; His Mother", 
+      title => "Shoun & His Mother", 
       body => <<'EOK',
-Shoun became a teacher of Soto Zen. When he was still a student hisfather passed away, leaving him to care for his old mother.
-Whenever Shoun went to a meditation hall he always took his mother withhim. Since she accompanied him, when he visited monasteries he could notlive with the monks.  So he would built a little house and care for herthere. He would copy sutras, Buddhist verses, and in this manner receivea few coins for food.
-When Shoun bought fish for his mother, the people would scoff at him,fo a monk is not supposed to eat fish. But Shoun did not mind. Hismother, however, was hurt to see others laugh at her son. Finally shetold Shoun: "I think I will become a nun. I can be vegetarian too." Shedid, and they studied together.
-Shoun was fond of music and was a master of the harp, which his motheralso played. On full-moon nights they used to play together. One night ayoung lady passed by their house and heard music. Deeply touched, sheinvited Shoun to visit her the next evening and play. He accepted theinvitation. A few days later he met the young lady on the street andthanked her for her hospitality. Others laughed at him. He had visitedthe house of a woman of the streets.
-One day Shoun left for a distant temple to deliver a lecture. A fewmonths afterwards he returned home to find his mother dead. Friends hadnot known where to reach him, so the funeral was in progress.
-Shoun walked up and hit the coffin with his staff. "Mother, your sonhas returned," he said.
+Shoun became a teacher of Soto Zen. When he was still a student his father passed away, leaving him to care for his old mother.
+Whenever Shoun went to a meditation hall he always took his mother with him. Since she accompanied him, when he visited monasteries he could not live with the monks.  So he would built a little house and care for her there. He would copy sutras, Buddhist verses, and in this manner receive a few coins for food.
+When Shoun bought fish for his mother, the people would scoff at him, for a monk is not supposed to eat fish. But Shoun did not mind. His mother, however, was hurt to see others laugh at her son. Finally she told Shoun: "I think I will become a nun. I can be vegetarian too." She did, and they studied together.
+Shoun was fond of music and was a master of the harp, which his mother also played. On full-moon nights they used to play together. One night a young lady passed by their house and heard music. Deeply touched, she invited Shoun to visit her the next evening and play. He accepted the invitation. A few days later he met the young lady on the street and thanked her for her hospitality. Others laughed at him. He had visited the house of a woman of the streets.
+One day Shoun left for a distant temple to deliver a lecture. A few months afterwards he returned home to find his mother dead. Friends had not known where to reach him, so the funeral was in progress.
+Shoun walked up and hit the coffin with his staff. "Mother, your son has returned," he said.
 "I am glad to see you have returned, son," he answered for his mother.
-"Yes, I am glad too," Shoun responded. Then he announced to the peopleabout him: "The funeral ceremony is over. You may bury the body."
-When Shoun was old he knew his end was approaching. He asked hisdisciples to gather around him in the morning, telling them he was goingto pass on at noon. Burning incense before the picture of his mother andhis old teacher, he wrote a poem:
-<dd><dl><dl><i>For fifty-six years I lived as best I could,<br>Making my way in this world.<br>Now the rain has ended, the clouds are clearing,<br>The blue sky has a full moon.<br></dl></dl></i></dd>
-His disciples gathered around him, reciting sutra, and Shoun passed onduring the invocation.
+"Yes, I am glad too," Shoun responded. Then he announced to the people around him: "The funeral ceremony is over. You may bury the body."
+When Shoun was old he knew his end was approaching. He asked his disciples to gather around him in the morning, telling them he was going to pass on at noon. Burning incense before the picture of his mother and his old teacher, he wrote a poem:
+
+For fifty-six years I lived as best I could,
+Making my way in this world.
+Now the rain has ended, the clouds are clearing,
+The blue sky has a full moon.
+
+His disciples gathered around him, reciting sutra, and Shoun passed on during the invocation.
 EOK
     },
 
@@ -240,21 +248,21 @@ EOK
     {
       title => "Stingy in Teaching", 
       body => <<'EOK',
-A young physician in Tokyo named Kusuda met a college friend who hadbeen studying Zen. The young doctor asked him what Zen was.
-"I cannot tell you what it is," the friend replied, "but one thing iscertain. If you understand Zen, you will not be afraid to die."
+A young physician in Tokyo named Kusuda met a college friend who had been studying Zen. The young doctor asked him what Zen was.
+"I cannot tell you what it is," the friend replied, "but one thing is certain. If you understand Zen, you will not be afraid to die."
 "That's fine," said Kusuda.  "I will try it.  Where can I find a teacher?"
 "Go to the master Nan-in," the friend told him.
-So Kusuda went to call on Nan-in.  He carried a dagger nine and a halfinches long to determine whether or not the teacher was afraid to die.
-When Nan-in saw Kusuda he exclaimed: "Hello, friend. How are you?  Wehaven't seen each other for a long time!"
+So Kusuda went to call on Nan-in.  He carried a dagger nine and a half inches long to determine whether or not the teacher was afraid to die.
+When Nan-in saw Kusuda he exclaimed: "Hello, friend. How are you?  We haven't seen each other for a long time!"
 This perplexed Kusuda, who replied: "We have never met before."
-"That's right," answered Nan-in. "I mistook you for another physicianwho is receiving instruction here."
-With such a begining, Kusuda lost his chance to test the master, soreluctantly he asked if he might receive instruction.
-Nan-in said: "Zen is not a difficult task. If you are a physician,treat your patients with kindness. That is Zen."
-Kusuda visited Nan-in three times. Each time Nan-in told him the samething. "A phsisician should not waste time around here. Go home and takecare of your patients."
-It was not clear to Kusuda how such teaching could remove the fear ofdeath. So on the forth visit he complained: "My friend told me that whenone learns Zen one loses his fear of death. Each time I come here youtell me to take care of my patients. I know that much. If that is yourso-called Zen, I am not going to visit you anymore."
-Nan-in smiled and patted the doctor.  "I have been too strict withyou. Let me give you a koan." He presented Kusuda with Joshu's Mu to workover, which is the first mind-enlightening problem in the book called<i>The Gateless Gate.</i>
-Kusuda pondered this problem of Mu (No-Thing) for two years. At length hethought he had reached certainty of mind. But his teacher commented: "Youare not in yet."
-Kusuda continued in concentration for another yet and a half. Hismind became placid. Problems dissolved. No-Thing became the truth. Heserved his patients well and, without even knowing it, he was free fromconcern of life and death.
+"That's right," answered Nan-in. "I mistook you for another physician who is receiving instruction here."
+With such a begining, Kusuda lost his chance to test the master, so reluctantly he asked if he might receive instruction.
+Nan-in said: "Zen is not a difficult task. If you are a physician, treat your patients with kindness. That is Zen."
+Kusuda visited Nan-in three times. Each time Nan-in told him the samething. "A physician should not waste time around here. Go home and take care of your patients."
+It was not clear to Kusuda how such teaching could remove the fear of death. So on the forth visit he complained: "My friend told me that when one learns Zen one loses his fear of death. Each time I come here you tell me to take care of my patients. I know that much. If that is your so-called Zen, I am not going to visit you anymore."
+Nan-in smiled and patted the doctor.  "I have been too strict with you. Let me give you a koan." He presented Kusuda with Joshu's Mu to workover, which is the first mind-enlightening problem in the book called 'The Gateless Gate'.
+Kusuda pondered this problem of Mu (No-Thing) for two years. At length he thought he had reached certainty of mind. But his teacher commented: "You are not in yet."
+Kusuda continued in concentration for another yet and a half. His mind became placid. Problems dissolved. No-Thing became the truth. He served his patients well and, without even knowing it, he was free from concern of life and death.
 Then he visited Nan-in, his old teacher just smiled.
 EOK
     },
@@ -263,24 +271,26 @@ EOK
       title => "A Parable", 
       body => <<'EOK',
 Buddha told a parable in sutra:
-A man traveling across a field encountered a tiger. He fled, thetiger after him. Coming to a precipice, he caught hold of the root of awild vine and swung himself down over the edge. The tiger sniffed at himfrom above. Trembling, the man looked down to where, far below, anothertiger was waiting to eat him. Only the vine sustained him.
-Two mice, one white and one black, little by little started to gnawaway the vine. The man saw a luscious strawberry near him.  Grasping thevine with one hand, he plucked the strawberry with the other. How sweetit tasted! 
+A man traveling across a field encountered a tiger. He fled, the tiger after him. Coming to a precipice, he caught hold of the root of a wild vine and swung himself down over the edge. The tiger sniffed at him from above. Trembling, the man looked down to where, far below, another tiger was waiting to eat him. Only the vine sustained him.
+Two mice, one white and one black, little by little started to gnaw away the vine. The man saw a luscious strawberry near him.  Grasping the vine with one hand, he plucked the strawberry with the other. How sweet it tasted! 
 EOK
     },
 
     {
       title => "The First Principle", 
       body => <<'EOK',
-When one goes to Obaku temple in Kyoto he sees carved over the gate thewords "The First Principle". The letters are unusually large, and thosewho appreciate calligraphy always admire them as being a mastepiece.  Theywere drawn by Kosen two hundred years ago.
-When the master drew them he did so on paper, from which the workmenmade the large carving in wood. As Kosen sketched the letters a boldpupil was with him who had made several gallons of ink for the calligraphyand who never failed to criticise his master's work.
+When one goes to Obaku temple in Kyoto he sees carved over the gate the words "The First Principle". The letters are unusually large, and those who appreciate calligraphy always admire them as being a mastepiece.  They were drawn by Kosen two hundred years ago.
+When the master drew them he did so on paper, from which the work men made the large carving in wood. As Kosen sketched the letters a bold pupil was with him who had made several gallons of ink for the calligraphy and who never failed to criticise his master's work.
 "That is not good," he told Kosen after his first effort.
 "How is this one?"
 "Poor. Worse than before," pronounced the pupil.
-Kosen patiently wrote one sheet after another until eighty-four FirstPrinciples had accumulated, still without the approval of the pupil.
-Then when the young man stepped outside for a few moments, Kosenthought: "Now this is my chance to escape his keen eye," and he wrotehurriedly, with a mind free from distraction: "The First Principle."
+Kosen patiently wrote one sheet after another until eighty-four First Principles had accumulated, still without the approval of the pupil.
+Then when the young man stepped outside for a few moments, Kosen thought: "Now this is my chance to escape his keen eye," and he wrote hurriedly, with a mind free from distraction: "The First Principle."
 "A masterpiece," pronounced the pupil.
 EOK
     },
+
+# Koans below here have not been checked for squished words
 
     {
       title => "A Mother's Advice", 
