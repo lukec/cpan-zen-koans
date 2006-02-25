@@ -6,50 +6,41 @@ use FindBin;
 use lib "$FindBin::Bin/../lib";
 
 BEGIN {
-    use_ok "Zen::Koans", qw(@koans koan_as_html num_koans);
+    use_ok "Zen::Koans", qw(get_koan num_koans);
 }
 
-NUM_KOANS: {
-    is scalar(@koans), 101;
-    is num_koans(), 101;
+my $num_koans = 101;
+Num_koans: {
+    is num_koans(), $num_koans;
 }
 
-CHECK_KOAN: {
-    my $k = $koans[0];
-    is $k->{num}, 1;
-    is $k->{title}, 'A Cup of Tea';
-    like $k->{koan}, qr/Nan-in, a Japanese master/;
-    like $k->{koan}, qr/visitor's cup/;
-    like $k->{koan}, qr/said, "you are full/;
+Get_koan: {
+    my $k = get_koan(1);
+    isa_ok $k, 'Zen::Koan';
+    is $k->title, 'A Cup of Tea';
+    is $k->body, <<EOK;
+Nan-in, a Japanese master during the Meiji era (1868-1912), received a university professor who came to inquire about Zen.
+Nan-in served tea. He poured his visitor's cup full, and then kept on pouring.
+The professor watched the overflow until he no longer could restrain himself. "It is overfull. No more will go in!"
+"Like this cup," Nan-in said, "you are full of your own opinions and speculations. How can I show you Zen unless you first empty your cup?"
+EOK
+    is $k->as_html, <<EOK;
+<div id='koan_title'>A Cup of Tea</div>
+<div id='koan_body'>
+<p>Nan-in, a Japanese master during the Meiji era (1868-1912), received a university professor who came to inquire about Zen.</p>
+<p>Nan-in served tea. He poured his visitor's cup full, and then kept on pouring.</p>
+<p>The professor watched the overflow until he no longer could restrain himself. "It is overfull. No more will go in!"</p>
+<p>"Like this cup," Nan-in said, "you are full of your own opinions and speculations. How can I show you Zen unless you first empty your cup?"</p>
+</div>
+EOK
 }
 
-my @koan_html_tests = (
-    qr#<div id='koan_title'>A Cup of Tea</div>#s,
-    qr#<div id='koan_body'>\n<p>Nan-in, a Japanese#s,
-    qr#about Zen\.</p>\n<p>Nan-in served tea#,
-    qr#cup\?"</p>\n</div>#s,
-);
-
-KOAN_AS_HTML: {
-    my $k = koan_as_html(1);
-    like $k, $_ for @koan_html_tests;
+Invalid_koans: {
+    eval { get_koan(0) };
+    like $@, qr#Please set num to a number between 1 and $num_koans#;
+    eval { get_koan(200) };
+    like $@, qr#Please set num to a number between 1 and $num_koans#;
+    eval { get_koan() };
+    like $@, qr#You must supply num=#;
 }
 
-my $koan_cgi = "$FindBin::Bin/../web/koan.pl";
-KOAN_CGI: {
-    ok -x $koan_cgi, "-x $koan_cgi";
-
-    # invalid parameters
-    my $no_num = run_cgi();
-    like $no_num, qr#^Content-Type: text/html.+\n\s*\nError: You must supply#s;
-    my $too_heigh = run_cgi("num=20000");
-    like $too_heigh, qr#^Content-Type: text/html.+\n\s*\nError: Please set num#s;
-
-    my $content = run_cgi("num=1");
-    like $content, qr#^Content-Type: text/html.+\n\s*\n<div id='koan_title'#;
-    like $content, $_ for @koan_html_tests;
-}
-
-sub run_cgi {
-    qx($^X -Ilib $koan_cgi @_);
-}

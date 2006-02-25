@@ -28,7 +28,7 @@ sub body  { $_[0]->{body} }
 
 sub as_html {
     my $self = shift;
-    my @paragraphs = split "\n\n", $self->{body};
+    my @paragraphs = grep /^.+$/, split "\n", $self->{body};
     chomp @paragraphs;
     my $body = '<p>' . join("</p>\n<p>", @paragraphs) . '</p>';
     return <<EOT;

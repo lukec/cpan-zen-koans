@@ -29,7 +29,7 @@ Create_by_hashref: {
 }
 
 Multi_paragraph_koan: {
-    my $body = "this\n\nand that\n\nand others.\n";
+    my $body = "this\nand that\n\nand others.\n";
     my $k = Zen::Koan->new( title => 'foo', 
                             body => $body,
                           );
