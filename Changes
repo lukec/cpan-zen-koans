@@ -1,0 +1,12 @@
+Zen-Koans
+
+0.02
+ - fixed typos in the koans
+ - created Zen::Koan class
+ - cleaned up and added tests
+ - cleaned up the Zen::Koans interface
+
+0.01 - 14 Feb 2006
+ - interface based on needs for Ajaxified Zen Koans: http://awesnob.com/zen
+ - Added koans from Ashidakim Zen Koans 
+   http://www.ashidakim.com/zenkoans/zenindex.html
