@@ -3,8 +3,15 @@ use strict;
 use warnings;
 use Carp qw/croak/;
 
+our $VERSION = '0.01';
+
 sub new {
-    my ($class, %opts) = @_;
+    my $class = shift;
+    my %opts;
+    if (@_ == 1 and ref($_[0]) eq 'HASH') {
+        %opts = %{ $_[0] };
+    }
+    else { %opts = @_ }
     $opts{title} ||= 'A koan by no other name';
     $opts{body}  ||= 'This koan offers little wisdom.  It just is.';
 

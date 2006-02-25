@@ -22,6 +22,12 @@ Create_Koan: {
 EOT
 }
 
+Create_by_hashref: {
+    my $k = Zen::Koan->new( { title => 'foo' } );
+    isa_ok $k, 'Zen::Koan';
+    is $k->title, 'foo';
+}
+
 Multi_paragraph_koan: {
     my $body = "this\n\nand that\n\nand others.\n";
     my $k = Zen::Koan->new( title => 'foo', 
