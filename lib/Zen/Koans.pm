@@ -295,9 +295,9 @@ EOK
     {
       title => "A Mother's Advice", 
       body => <<'EOK',
-Jiun, a Shingon master, was a well-known Sanskrit scholar of theTokugawa era. When he was young he used to deliver lectures to his brotherstudents.
+Jiun, a Shingon master, was a well-known Sanskrit scholar of the Tokugawa era. When he was young he used to deliver lectures to his brother students.
 His mother heard about this and wrote him a letter:
-"Son, I do not think you became a devotee of the Buddha because youdesired to turn into a walking dictionary for others. There is no end toinformation and commentation, glory and honor. I wish you would stop thislecture business. Shut yourself up in a little temple in a remote part ofthe mountain. Devote your time to meditation and in this way attain truerealization." 
+"Son, I do not think you became a devotee of the Buddha because you desired to turn into a walking dictionary for others. There is no end to information and commentation, glory and honor. I wish you would stop this lecture business. Shut yourself up in a little temple in a remote part ofthe mountain. Devote your time to meditation and in this way attain true realization." 
 EOK
     },
 
@@ -310,7 +310,7 @@ Toyo wished to do sanzen also.
 But the child insisted, so the teacher finally consented.
 In the evening little Toyo went at the proper time to the threshold of Mokurai's sanzen room. He struck the gong to announce his presence, bowed respectfully three times outside the door, and went to sit before the master in respectful silence.
 "You can hear the sound of two hands when they clap together," said Mokurai. "Now show me the sound of one hand."
-Toyo bowed and went to his room to consider this problem. From his window he could hear the music of the geishas. "Ah, I have it!"he proclaimed.
+Toyo bowed and went to his room to consider this problem. From his window he could hear the music of the geishas. "Ah, I have it!" he proclaimed.
 The next evening, when his teacher asked him to illustrate the sound of one hand, Toyo began to play the music of the geishas.
 "No, no," said Mokurai. "That will never do. That is not the sound of one hand. You've not got it at all."
 Thinking that such music might interrupt, Toyo moved his abode to a quiet place. He meditated again. "What can the sound of one hand be?" He happened to hear some water dripping. "I have it,"imagined Toyo.
@@ -328,25 +328,25 @@ EOK
     {
       title => "My Heart Burns Like Fire", 
       body => <<'EOK',
-Soyen Shaku, the first Zen teacher to come to America, said: "My heartburns like fire but my eyes are as cold as dead ashes." He made thefollowing rules which he practiced every day of his life.
+Soyen Shaku, the first Zen teacher to come to America, said: "My heart burns like fire but my eyes are as cold as dead ashes." He made the following rules which he practiced every day of his life.
 In the morning before dressing, light incense and meditate.
-Retire at a regular hour. Partake of food at regular intervals. Eatwith moderation and never to the point of satisfaction.
-Receive a guest with the same attitude you have when alone. When alone,maintain the same attitude you have in receiving guests.
+Retire at a regular hour. Partake of food at regular intervals. Eat with moderation and never to the point of satisfaction.
+Receive a guest with the same attitude you have when alone. When alone, maintain the same attitude you have in receiving guests.
 Watch what you say, and whatever you say, practice it.
-When an opportunity comes do not let it pass by, yet always think twicebefore acting.
+When an opportunity comes do not let it pass by, yet always think twice before acting.
 Do not regret the past. Look to the future.
 Have the fearless attitude of a hero and the loving heart of a child.
-Upon retiring, sleep as if you had entered your last sleep. Uponawakening, leave your bed behind you instantly as if you had cast away apair of old shoes.
+Upon retiring, sleep as if you had entered your last sleep. Upon awakening, leave your bed behind you instantly as if you had cast away apair of old shoes.
 EOK
     },
 
     {
       title => "Eshun's Departure", 
       body => <<'EOK',
-When Eshun, the Zen nun, was past sixty and about to leave this world,she asked some monks to pile up wood in the yard.
+When Eshun, the Zen nun, was past sixty and about to leave this world, she asked some monks to pile up wood in the yard.
 Seating herself firmly in the center of the funeral pyre, she had itset fire around the edges.
 "O nun!" shouted one monk, "is it hot in there?"
-"Such a matter would concern only a stupid person like yourself,"answered Eshun.
+"Such a matter would concern only a stupid person like yourself", answered Eshun.
 The flames arose, and she passed away.
 EOK
     },
@@ -354,22 +354,22 @@ EOK
     {
       title => "Reciting Sutras", 
       body => <<'EOK',
-A farmer requested a Tendai priest to recite sutras for his wife, whohad died. After the recitation was over the farmer asked:  "Do you thinkmy wife will gain merit from this?"
-"Not only your wife, but all sentient beings will benefit from therecitation of sutras," answered the priest.
-"If you say all sentient beings will benefit," said the farmer, "mywife may be very weak and others will take advantage of her, getting thebenefit she should have. So please recite sutras just for her."
-The priest explained that it was the desire of a Buddhist to offerblessings and wish merit for every living being.
-"That is a fine teaching," concluded the farmer, "but please make oneexception. I have a neighbor who is rough and mean to me. Just exclude himfrom all those sentient beings."
+A farmer requested a Tendai priest to recite sutras for his wife, who had died. After the recitation was over the farmer asked:  "Do you think my wife will gain merit from this?"
+"Not only your wife, but all sentient beings will benefit from the recitation of sutras," answered the priest.
+"If you say all sentient beings will benefit," said the farmer, "my wife may be very weak and others will take advantage of her, getting the benefit she should have. So please recite sutras just for her."
+The priest explained that it was the desire of a Buddhist to offer blessings and wish merit for every living being.
+"That is a fine teaching," concluded the farmer, "but please make one exception. I have a neighbor who is rough and mean to me. Just exclude him from all those sentient beings."
 EOK
     },
 
     {
       title => "Three Days More", 
       body => <<'EOK',
-Suiwo, the disciple of Hakuin, was a good teacher. During one summerseclusion period, a pupil came to him from a southern island of Japan.
+Suiwo, the disciple of Hakuin, was a good teacher. During one summer seclusion period, a pupil came to him from a southern island of Japan.
 Suiwo gave him the problem: "Hear the sound of one hand."
-The pupil remained three years but could not pass this test. One nighthe came in tears to Suiwo. "I must return south in shame andembarrassment," he said, "for I cannot solve my problem."
-"Wait one week more and meditate constantly," advised Suiwo. Still noenlightenment came to the pupil. "Try for another week," said Suiwo. Thepupil obeyed, but in vain.
-"Still another week." Yet this was of no avail. In despair the studentbegged to be released, but Suiwo requested another meditation of fivedays. They were without result. Then he said: "Meditate for three dayslonger, then if you fail to attain enlightenment, you had better killyourself."
+The pupil remained three years but could not pass this test. One night the pupil came in tears to Suiwo. "I must return south in shame and embarrassment," he said, "for I cannot solve my problem."
+"Wait one week more and meditate constantly," advised Suiwo. Still no enlightenment came to the pupil. "Try for another week," said Suiwo. The pupil obeyed, but in vain.
+"Still another week." Yet this was of no avail. In despair the student begged to be released, but Suiwo requested another meditation of five days. They were without result. Then he said: "Meditate for three days longer, then if you fail to attain enlightenment, you had better kill yourself."
 On the second day the pupil was enlightened.
 EOK
     },
@@ -377,27 +377,27 @@ EOK
     {
       title => "Trading Dialogue for Lodging", 
       body => <<'EOK',
-Provided he makes and wins an argument about Buddhism with those wholive there, any wondering monk can remain in a Zen temple. If he isdefeated, he has to move on.
-In a temple in the northern part of Japan two brother monks weredwelling together. The elder one was learned, but the younger one wasstupid and had but one eye.
-A wandering monk came and asked for lodging, properly challenging themto a debate about the sublime teachings. The elder brother, tired that dayfrom much studying, told the younger one to take his place. "Go andrequest the dialogue in silence," he cautioned.
+Provided he makes and wins an argument about Buddhism with those who live there, any wondering monk can remain in a Zen temple. If he is defeated, he has to move on.
+In a temple in the northern part of Japan two brother monks were dwelling together. The elder one was learned, but the younger one was stupid and had but one eye.
+A wandering monk came and asked for lodging, properly challenging them to a debate about the sublime teachings. The elder brother, tired that day from much studying, told the younger one to take his place. "Go and request the dialogue in silence," he cautioned.
 So the young monk and the stranger went to the shrine and sat down.
-Shortly afterwards the traveler rose and went in to the elder brotherand said:  "Your young brother is a wonderful fellow. He defeated me."
+Shortly afterwards the traveler rose and went in to the elder brother and said:  "Your young brother is a wonderful fellow. He defeated me."
 "Relate the dialogue to me," said the elder one.
-"Well," explained the traveler, "first I held up one finger,representing Buddha, the enlightened one. So he held up two fingers,signifying Buddha and his teaching. I held up three fingers, representingBuddha, his teaching, and his followers, living the harmonious life. Thenhe shook his clenched fist in my face, indicating that all three come fromone realization. Thus he won and so I have no right to remain here." Withthis, the traveler left.
-"Where is that fellow?" asked the younger one, running in to his elderbrother.
+"Well," explained the traveler, "first I held up one finger, representing Buddha, the enlightened one. So he held up two fingers, signifying Buddha and his teaching. I held up three fingers, representing Buddha, his teaching, and his followers, living the harmonious life. Then he shook his clenched fist in my face, indicating that all three come fromone realization. Thus he won and so I have no right to remain here." With this, the traveler left.
+"Where is that fellow?" asked the younger one, running in to his elder brother.
 "I understand you won the debate."
 "Won nothing. I'm going to beat him up."
 "Tell me the subject of the debate," asked the elder one.
-"Why, the minute he saw me he held up one finger, insulting me byinsinuating that I have only one eye. Since he was a stranger I thought Iwould be polite to him, so I held up two fingers, congratulating him thathe has two eyes. Then the impolite wretch held up three fingers,suggesting that between us we only have three eyes. So I got mad andstarted to punch him, but he ran out and that ended it!"
+"Why, the minute he saw me he held up one finger, insulting me by insinuating that I have only one eye. Since he was a stranger I thought I would be polite to him, so I held up two fingers, congratulating him that he has two eyes. Then the impolite wretch held up three fingers, suggesting that between us we only have three eyes. So I got mad and started to punch him, but he ran out and that ended it!"
 EOK
     },
 
     {
       title => "The Voice of Happiness", 
       body => <<'EOK',
-After Bankei had passed away, a blind man who lived near the master'stemple told a friend:
-"Since I am blind, I cannot watch a person's face, so I must judge hischaracter by the sound of his voice. Ordinarily when I hear someonecongratulate another upon his happiness or success, I also hear a secrettone of envy.  When condolence is expressed for the misfortune of another,I hear pleasure and satisfaction, as if the one condoling was really gladthere was something left to gain in his own world.
-"In all my experience, however, Bankei's voice was always sincere. Whenever he expressed happiness, I heard nothing but happiness, andwhenever he expressed sorrow, sorrow was all I heard."
+After Bankei had passed away, a blind man who lived near the master's temple told a friend:
+"Since I am blind, I cannot watch a person's face, so I must judge his character by the sound of his voice. Ordinarily when I hear someone congratulate another upon his happiness or success, I also hear a secret tone of envy.  When condolence is expressed for the misfortune of another, I hear pleasure and satisfaction, as if the one condoling was really glad there was something left to gain in his own world.
+"In all my experience, however, Bankei's voice was always sincere. Whenever he expressed happiness, I heard nothing but happiness, and whenever he expressed sorrow, sorrow was all I heard."
 EOK
     },
 
@@ -406,20 +406,25 @@ EOK
       body => <<'EOK',
 Daiju visited the master Baso in China. Baso asked: "What do you seek?"
 "Enlightenment," replied Daiju.
-"You have your own treasure house. Why do you search outside?" Basoasked.
+"You have your own treasure house. Why do you search outside?" Baso asked.
 Daiju inquired: "Where is my treasure house?"
 Baso answered: "What you are asking is your treasure house."
-Daiju was enlightened! Ever after he urged his friends: "Open your owntresure house and use those treasures."
+Daiju was enlightened! Ever after he urged his friends: "Open your own tresure house and use those treasures."
 EOK
     },
 
     {
       title => "No Water, No Moon", 
       body => <<'EOK',
-When the nun Chiyono studied Zen under Bukko of Engaku she was unableto attain the fruits of meditation for a long time.
-At last one moonlit night she was carrying water in an old pail boundwith bamboo. The bamboo broke and the bottom fell out of the pail, and atthat moment Chiyono was set free!
+When the nun Chiyono studied Zen under Bukko of Engaku she was unable to attain the fruits of meditation for a long time.
+At last one moonlit night she was carrying water in an old pail bound with bamboo. The bamboo broke and the bottom fell out of the pail, and at that moment Chiyono was set free!
 In commemoration, she wrote a poem:
-<dl><dl><dd><i>In this way and that I tried to save the old pail<br>Since the bamboo strip was weakening and about<br>&nbsp; &nbsp;to break<br>Until at last the bottom fell out.<br>No more water in the pail!<br>No more moon in the water!</i></dd></dl></dl>
+  In this way and that I tried to save the old pail
+  Since the bamboo strip was weakening and about
+  to break
+  Until at last the bottom fell out.
+  No more water in the pail!
+  No more moon in the water!
 EOK
     },
 
@@ -450,30 +455,32 @@ EOK
 A lord asked Takuan, a Zen Teacher, to suggest how he might pass the time. He felt his days very long attending his office and sitting stiffly to receive the homage of others.
 Takuan wrote eight Chinese characters and gave them to the man:
 
-<dl><dl><dd><i>Not twice this day<br>Inch time foot gem.
-This day will not come again.<br>Each minute is worth a priceless gem.</i></dd></dl></dl>
+  Not twice this day
+  Inch time foot gem.
+  This day will not come again.
+  Each minute is worth a priceless gem.
 EOK
     },
 
     {
       title => "Mokusen's Hand", 
       body => <<'EOK',
-Mokusen Hiki was living in a temple in the province of Tamba. One ofhis adherents complained of the stinginess of his wife.
-Mokusen visited the adherent's wife and showed her his clenched fistbefore her face.
+Mokusen Hiki was living in a temple in the province of Tamba. One of his adherents complained of the stinginess of his wife.
+Mokusen visited the adherent's wife and showed her his clenched fist before her face.
 "What do you mean by that?" asked the surprised woman.
-"Suppose my fist were always like that. What would you call it?" heasked.
+"Suppose my fist were always like that. What would you call it?" he asked.
 "Deformed," replied the woman.
-Then he opened his hand flat in her face and asked: "Suppose it werealways like that. What then?"
+Then he opened his hand flat in her face and asked: "Suppose it were always like that. What then?"
 "Another kind of deformity," said the wife.
-"If you understand that much," finished Mokusen, "you are a good wife."Then he left.
-After his visit, this wife helped her husband to distribute as well asto save.
+"If you understand that much," finished Mokusen, "you are a good wife." Then he left.
+After his visit, this wife helped her husband to distribute as well as to save.
 EOK
     },
 
     {
       title => "A Smile in His Lifetime", 
       body => <<'EOK',
-Mokugen was never known to smile until his last day on earth. When his time came to pass away he said to his faithful ones: "You have studied under me for more than ten years. Show me your real interpretation of Zen.Whoever expresses this most clearly shall be my successor and receive my robe and bowl."
+Mokugen was never known to smile until his last day on earth. When his time came to pass away he said to his faithful ones: "You have studied under me for more than ten years. Show me your real interpretation of Zen. Whoever expresses this most clearly shall be my successor and receive my robe and bowl."
 Everyone watched Mokugen's severe face, but no one answered.
 Encho, a disciple who had been with his teacher for a long time, moved near the bedside. He pushed forward the medicine cup a few inches. That was his answer to the command.
 The teacher's face became even more severe. "Is that all you understand?" he asked.
@@ -497,18 +504,18 @@ Subhuti was Buddha's disciple. He was able to understand the potency of emptines
 One day Subhuti, in a mood of sublime emptiness, was sitting under a tree. Flowers began to fall about him.
 "We are praising you for your discourse on emptiness," the gods whispered to him.
 "But I have not spoken of emptiness," said Subhuti.
-"You have not spoken of emptiness, we ahve not heard emptiness," responded the gods. "This is the true emptiness." And blossoms showered upon Subhuti as rain.
+"You have not spoken of emptiness, we have not heard emptiness," responded the gods. "This is the true emptiness." And blossoms showered upon Subhuti as rain.
 EOK
     },
 
     {
       title => "Publishing the Sutras", 
       body => <<'EOK',
-Tetsugen, a devotee of Zen in Japan, decided to publish the sutras,which at that time were available only in Chinese. The books were to beprinted with wood blocks in an edition of seven thousand copies, atremendous undertaking.
-Tetsugen began by traveling and collecting donations for this purpose. A few sympathizers would give him a hundred pieces of gold, but most ofthe time he received only small coins. He thanked each donor with equalgratitude. After ten years Tetsugen had enough money to begin his task.
-It happened that at that time the Uji Rive overflowed. Famine followed. Tetsugen took the funds he had collected for the books and spent them tosave others from starvation. Then he began again his work of collecting.
-Several years afterwards an epidemic spread over the country. Tetsugenagain gave away what he had collected, to help his people. For a thirdtime he started his work, and after twenty years his wish was fulfilled.The printing blocks which produced the first edition of sutras can be seentoday in the Obaku monastery in Kyoto.
-The Japanese tell their children that Tetsugen made three sets ofsutras, and that the first two invisible sets surpass even the last.
+Tetsugen, a devotee of Zen in Japan, decided to publish the sutras, which at that time were available only in Chinese. The books were to be printed with wood blocks in an edition of seven thousand copies, a tremendous undertaking.
+Tetsugen began by traveling and collecting donations for this purpose. A few sympathizers would give him a hundred pieces of gold, but most of the time he received only small coins. He thanked each donor with equal gratitude. After ten years Tetsugen had enough money to begin his task.
+It happened that at that time the Uji River overflowed. Famine followed. Tetsugen took the funds he had collected for the books and spent them to save others from starvation. Then he began again his work of collecting.
+Several years afterwards an epidemic spread over the country. Tetsugen again gave away what he had collected, to help his people. For a third time he started his work, and after twenty years his wish was fulfilled. The printing blocks which produced the first edition of sutras can be seen today in the Obaku monastery in Kyoto.
+The Japanese tell their children that Tetsugen made three sets of sutras, and that the first two invisible sets surpass even the last.
 EOK
     },
 
@@ -517,10 +524,16 @@ EOK
       body => <<'EOK',
 Gisho was ordained as a nun when she was just ten years old. She received training just as the little boys did. When she reached the age of sixteen she traveled from one Zen master to another, studying with them all.
 She remained three years with Unzan, six years with Gukei, but was unable to obtain a clear vision. At last she went to the master Inzan.
-Inzan showed her no distinction at all on account of her sex. He scolded her like a thunderstorm. He cuffed he to awaken her inner nature.
+Inzan showed her no distinction at all on account of her sex. He scolded her like a thunderstorm. He cuffed her to awaken her inner nature.
 Gisho remained with Inzan thirteen years, and then she found that which she was seeking!
 In her honor, Inzan wrote a poem:
-<i><p>This nun studied thirteen years under my guidance.<br>In the evening she considered the deepest koans,<br>In the morning she was wrapped in other koans.<br>The Chinese nun Tetsuma surpassed all before her,<br>And since Mujaku none has been so genuine as this Gisho!<br>Yet there are many more gates for her to pass through.<br>She should receive still more blows from my iron fist.</i>
+  This nun studied thirteen years under my guidance.
+  In the evening she considered the deepest koans,
+  In the morning she was wrapped in other koans.
+  The Chinese nun Tetsuma surpassed all before her,
+  And since Mujaku none has been so genuine as this Gisho!
+  Yet there are many more gates for her to pass through.
+  She should receive still more blows from my iron fist.
 After Gisho was enlightened she went to the province of Banshu, started her own Zen temple, and taught two hundred other nuns until she passed away one year in the month of August.
 EOK
     },
@@ -538,19 +551,19 @@ EOK
     {
       title => "In Dreamland", 
       body => <<'EOK',
-"Our schoolmaster used to take a nap every afternoon," related adisciple of Soyen Shaku. "We children asked him why he did it and he toldus: 'I go to dreamland to meet the old sages just as Confucius did.' WhenConfucius slept, he would dream of ancient sages and later tell hisfollowers about them.
-"It was extremely hot one day so some of us took a nap. Ourschoolmaster scolded us. 'We went to dreamland to meet the ancient sagesthe same as Confucius did,' we explained. 'What was the message from thosesages?' our schoolmaster demanded. One of us replied: 'We went todreamland and met the sages and asked them if our schoolmaster came thereevery afternoon, but they said they had never seen any such fellow.'"
+"Our school master used to take a nap every afternoon", related a disciple of Soyen Shaku. "We children asked him why he did it and he told us: 'I go to dreamland to meet the old sages just as Confucius did.' When Confucius slept, he would dream of ancient sages and later tell his followers about them.
+"It was extremely hot one day so some of us took a nap. Our school master scolded us. 'We went to dreamland to meet the ancient sages the same as Confucius did', we explained. 'What was the message from those sages?' our school master demanded. One of us replied: 'We went to dreamland and met the sages and asked them if our schoolmaster came there every afternoon, but they said they had never seen any such fellow.'"
 EOK
     },
 
     {
       title => "Joshu's Zen", 
       body => <<'EOK',
-Joshu began the study of Zen when he was sixty years old and continueduntil he was eighty, when he realized Zen.
+Joshu began the study of Zen when he was sixty years old and continued until he was eighty, when he realized Zen.
 He taught from the age of eighty until he was one hundred and twenty.
-A student once asked him: "If I haven't anything in my mind, what shallI do?"
+A student once asked him: "If I haven't anything in my mind, what shall I do?"
 Joshu replied: "Throw it out."
-"But if I haven't anything, how can I throw it out?" continued thequestioner.
+"But if I haven't anything, how can I throw it out?" continued the questioner.
 "Well," said Joshu, "then carry it out."
 EOK
     },
@@ -572,7 +585,7 @@ EOK
       body => <<'EOK',
 Tosui was a well-known Zen teacher of his time. He had lived in several temples and taught in various provinces.
 The last temple he visited accumulated so many adherents that Tosui told them he was going to quit the lecture business entirely. He advised them to disperse and to go wherever they desired. After that no one could find any trace of him.
-Three years later one of his disciples discovered him living with some beggars under a bridge in Kyoto. He at one implored Tosui to teach him.
+Three years later one of his disciples discovered him living with some beggars under a bridge in Kyoto. He at once implored Tosui to teach him.
 "If you can do as I do for even a couple of days, I might," Tosui replied.
 So the former disciple dressed as a beggar and spent a day with Tosui. The following day one of the beggars died. Tosui and his pupil carried the body off at midnight and buried it on a mountainside. After that they returned to their shelter under the bridge.
 Tosui slept soundly the remainder of the night, but the disciple could not sleep. When morning came Tosui said: "We do not have to beg food today. Our dead friend has left some over there." But the disciple was unable to eat a single bite of it.
@@ -595,9 +608,9 @@ EOK
     {
       title => "Right & Wrong", 
       body => <<'EOK',
-When Bankei held his seclusion-weeks of meditation, pupils from many parts of Japan came to attend. During one of these gatherings a pupil wascaught stealing. The matter was reported to Bankei with the request that the culprit be expelled. Bankei ignored the case.
-Later the pupil was caught in a similar act, and again bankei disregarded the matter. this angered the other pupils, who drew up a petition asking for the dismissal of the thief, stating that otherwise they woudl leave in a body.
-When bankei had read the petition he called everyone before him. "You are wise brothers," he told them. "You know what is right and what is not right. You may somewhere else to study if ou wish, but this poor brother does not even know right from wrong. Who will teach him if I do not? I am going to keep him here even if all the rest of you leave."
+When Bankei held his seclusion-weeks of meditation, pupils from many parts of Japan came to attend. During one of these gatherings a pupil was caught stealing. The matter was reported to Bankei with the request that the culprit be expelled. Bankei ignored the case.
+Later the pupil was caught in a similar act, and again Bankei disregarded the matter. This angered the other pupils, who drew up a petition asking for the dismissal of the thief, stating that otherwise they would leave in a body.
+When Bankei had read the petition he called everyone before him. "You are wise brothers," he told them. "You know what is right and what is not right. You may go somewhere else to study if you wish, but this poor brother does not even know right from wrong. Who will teach him if I do not? I am going to keep him here even if all the rest of you leave."
 A torrent of tears cleansed the face of the brother who had stolen. All desire to steal had vanished.
 EOK
     },
@@ -606,7 +619,7 @@ EOK
       title => "How Grass & Trees Become Enlightened", 
       body => <<'EOK',
 During the Kamakura period, Shinkan studied Tendai six years and then studied Zen seven years; then he went to China and contemplated Zen for thirteen years more.
-When he returned to Japan many desired to interview him and asked onscure questions. But when Shinkan received visitors, which was infrequently, he seldom answered their questions.
+When he returned to Japan many desired to interview him and asked obscure questions. But when Shinkan received visitors, which was infrequently, he seldom answered their questions.
 One day a fifty-year-old student of enlightenment said to Shinkan: "I have studied the Tendai school of thought since I was a little boy, but one thing in it I cannot understand. Tendai claims that even the grass and trees will become enlightened. To me this eems very strange."
 "Of what use is it to discuss how grass and trees become enlightened?" asked Shinkan. "The question is how you yourself can become so. Did you ever consider that?"
 "I never thought of it in that way," marveled the old man.
@@ -664,9 +677,17 @@ Ryonen then went to another master, Hakuo. Hakuo refused her for the same reason
 Ryonen obtained a hot iron and placed it against her face. In a few moments her beauty had vanished forever.
 Hakuo then accepted her as a disciple.
 Commemorating this occasion, Ryonen wrote a poem on the back of a little mirror:
-<dd><dl><dl><i>In the service of my Empress I burned incense to<br>&nbsp; &nbsp; perfume my exquisite clothes<br>Now as a homeless mendicant I burn my face to<br>&nbsp; &nbsp; enter a Zen temple.</i></dl></dl></dd>
+  In the service of my Empress I burned incense to
+  perfume my exquisite clothes
+  Now as a homeless mendicant I burn my face to
+  enter a Zen temple.
 When Ryonen was about to pass from this world, she wrote another poem:
-<dd><dl><dl><i>Sixty-six times have these eyes beheld the changing<br>&nbsp; &nbsp; scene of autumn<br>I have said enough about moonlight,<br>Ask no more.<br>Only listen to the voice of pines and cedars when no<br>&nbsp; &nbsp; wind stirs.</i></dl></dl></dd>
+  Sixty-six times have these eyes beheld the changing
+  scene of autumn
+  I have said enough about moonlight,
+  Ask no more.
+  Only listen to the voice of pines and cedars when no
+  wind stirs.
 EOK
     },
 
@@ -684,7 +705,7 @@ EOK
     {
       title => "Your Light May Go Out", 
       body => <<'EOK',
-A student of Tendai, a philosophical school of Buddhism, came to the Zen abode of Gasan as a pupil. When he was departing a few years later,Gasan warned him: "Studying the truth speculatively is useful as a way of collecting preaching material. But remember that unless you meditate constantly your light of truth may go out."
+A student of Tendai, a philosophical school of Buddhism, came to the Zen abode of Gasan as a pupil. When he was departing a few years later, Gasan warned him: "Studying the truth speculatively is useful as a way of collecting preaching material. But remember that unless you meditate constantly your light of truth may go out."
 EOK
     },
 
@@ -707,9 +728,13 @@ EOK
       title => "The Last Will & Testament", 
       body => <<'EOK',
 Ikkyu, a famous Zen teacher of the Ashikaga era, was the son of the emperor. When he was very young, his mother left the palace and went to study Zen in a temple. In this way Prince Ikkyu also became a student. When his mother passed on, she left with him a letter. It read:
-<i><p>&nbsp; &nbsp;To Ikkyu:<br>&nbsp; &nbsp; &nbsp; I have finished my work in this life and am now returning into Eternity. I wish you to become a good student and to realize your Buddha-nature. You will know if I am in hell and whether I am always with you or not.<br>&nbsp; &nbsp; &nbsp; If you become a man who realizes that the Buddha and his follower Bodhidharma are your own servants, you may leave off studying and work for humanity. The Buddha preached for forty-nine years and in all that time found it not necessary to speak one word. You ought to know why. But if you don't and yet wish to, avoid thinking fruitlessly.
-<dl><dl><dl><dl><dl><dl><dd>Your Mother,<br>Not born, not dead.<br><dl><dd>September first.</dd></dl></dd></dl></dl></dl></dl></dl></dl>
-P.S. The teaching of Buddha was mainly for the purpose of enlightening others. If you are dependent on any of its methods, you are naught but an ignorant insect. There are 80,000 books on Buddhism and if you should read all of them and still not see your own nature, you will not understand even this letter. This is my will and testament.</i>
+  To Ikkyu:
+  I have finished my work in this life and am now returning into Eternity. I wish you to become a good student and to realize your Buddha-nature. You will know if I am in hell and whether I am always with you or not.
+  If you become a man who realizes that the Buddha and his follower Bodhidharma are your own servants, you may leave off studying and work for humanity. The Buddha preached for forty-nine years and in all that time found it not necessary to speak one word. You ought to know why. But if you don't and yet wish to, avoid thinking fruitlessly.
+  Your Mother,
+  Not born, not dead.
+  September first.
+  P.S. The teaching of Buddha was mainly for the purpose of enlightening others. If you are dependent on any of its methods, you are naught but an ignorant insect. There are 80,000 books on Buddhism and if you should read all of them and still not see your own nature, you will not understand even this letter. This is my will and testament.
 EOK
     },
 
@@ -769,7 +794,7 @@ EOK
 Once a division of the Japanese army was engaged in a sham battle, and some of the officers found it necessary to make their headquarters in Gasan's temple.
 Gasan told his cook: "Let the officers have only the same simple fare we eat."
 This made the army men angry, as they were used to very deferential treatment. One came to Gasan and said: "Who do you think we are? We are soldiers, sacrificing our lives for our country. Why don't you treat us accordingly?"
-Gasan answered sternly: "Who do you think <i>we</i> are? We are soldiers of humanity, aiming to save all sentient beings."
+Gasan answered sternly: "Who do you think WE are? We are soldiers of humanity, aiming to save all sentient beings."
 EOK
     },
 
@@ -835,7 +860,7 @@ EOK
       body => <<'EOK',
 A young wife fell sick and was about to die. "I love you so much," she told her husband, "I do not want to leave you. Do not go from me to any other woman. If you do, I will return as a ghost and cause you endless trouble."
 Soon the wife passed away. The husband respected her last wish for the first three months, but then he met another woman and fell in love with her. They became engaged to be married.
-Immediately after the engagement a ghost appeared every night to the man, blaming him for not keeping his promise. The ghost was clever too. She told him exactly what had transpired between himself and his new sweetheart. Whenever he gave his fiancee a present, the ghost would describe it in detail. She would even repeat conversations, and it so annoyed the amn that he could not sleep. Someone advised him to take his problem to a Zen master who lived close to the village. At length, in despair, the poor man went to him for help.
+Immediately after the engagement a ghost appeared every night to the man, blaming him for not keeping his promise. The ghost was clever too. She told him exactly what had transpired between himself and his new sweetheart. Whenever he gave his fiancee a present, the ghost would describe it in detail. She would even repeat conversations, and it so annoyed the man that he could not sleep. Someone advised him to take his problem to a Zen master who lived close to the village. At length, in despair, the poor man went to him for help.
 "Your former wife became a ghost and knows everything you do, " commented the master. "Whatever you do or say, whatever you give your beloved, she knows. She must be a very wise ghost. Really you should admire such a ghost. The next time she appears, bargain with her. Tell her that she knows so much you can hide nothing from her, and that if she will answer you one question, you promise to break your engagement and remain single."
 "What is the question I must ask her?" inquired the man.
 The master replied: "Take a large handful of soy beans and ask her exactly how many beans you hold in your hand. If she cannot tell you, you will know that she is only a figment of your imagination and will trouble you no longer."
@@ -883,7 +908,7 @@ EOK
     {
       title => "Eating the Blame", 
       body => <<'EOK',
-Circumstances arose one day which delayed preparation of the dinner of a Soto Zen master, Fugai, and his followers. In haste the cook went to the garden with his curved knife and cut off the tops of green veetables, chopped them together, and made soup, unaware that in his haste he had included a part of a snake in the vegetables.
+Circumstances arose one day which delayed preparation of the dinner of a Soto Zen master, Fugai, and his followers. In haste the cook went to the garden with his curved knife and cut off the tops of green vegetables, chopped them together, and made soup, unaware that in his haste he had included a part of a snake in the vegetables.
 The followers of Fugai thought they had never tasted such great soup. But when the master himself found the snake's head in his bowl, he summoned the cook. "What is this?" he demanded, holding up the head of the snake.
 "Oh, thank you, master," replied the cook, taking the morsel and eating it quickly.
 EOK
@@ -904,7 +929,7 @@ EOK
       body => <<'EOK',
 The pupils of the Tendai school used to study meditation before Zen entered Japan. Four of them who were intimate friends promised one another to observe seven days of silence.
 On the first day all were silent. Their meditation had begun auspiciously, but when night came and the oil lamps were growing dim one of the pupils could not help exclaiming to a servant: "Fix those lamps."
-The second pupil was surprised to hear th first one talk. "We are not supposed to say a word," he remarked.
+The second pupil was surprised to hear the first one talk. "We are not supposed to say a word," he remarked.
 "You two are stupid. Why did you talk?" asked the third.
 "I am the only one who has not talked," concluded the fourth pupil.
 EOK
@@ -914,7 +939,7 @@ EOK
       title => "The Blockhead Lord", 
       body => <<'EOK',
 Two Zen teachers, Daigu and Gudo, were invited to visit a lord. Upon arriving, Gudo said to the lord: "You are wise by nature and have an inborn ability to learn Zen."
-"Nonsense," said Daigu. "Why do you flatter thi blockhead? He may be a lord, but he doesn't know anything of Zen."
+"Nonsense," said Daigu. "Why do you flatter the blockhead? He may be a lord, but he doesn't know anything of Zen."
 So, instead of building a temple for Gudo, the lord built it for Daigu and studied Zen with him.
 EOK
     },
@@ -969,7 +994,7 @@ Zengetsu, a Chinese master of the T'ang dynasty, wrote the following advice for 
 Living in the world yet not forming attachments to the dust of the world is the way of a true Zen student.
 When witnessing the good action of another encourage yourself to follow his example. Hearing of the mistaken action of another, advise yourself not to emulate it.
 Even though alone in a dark room, be as if you were facing a noble guest. Express your feelings, but become no more expressive than your true nature.
-Poverty is your teasure. Never exchange it for an easy life.
+Poverty is your treasure. Never exchange it for an easy life.
 A person may appear a fool and yet not be one. He may only be guarding his wisdom carefully.
 Virtues are the fruit of self-discipline and do not drop from heaven of themselves as does rain or snow.
 Modesty is the foundation of all virtues. Let your neighbors discover you before you make yourself known to them.
@@ -1007,7 +1032,7 @@ EOK
       title => "The Real Miracle", 
       body => <<'EOK',
 When Bankei was preaching at Ryumon temple, a Shinshu priest, who believed in salvation through the repitition of the name of the Buddha of Love, was jealous of his large audience and wanted to debate with him.
-Bankei was in the midst of a talk when the priest appeared, but the fellow made such a disturbance that bankei stopped his discourse and asked about the noise.
+Bankei was in the midst of a talk when the priest appeared, but the fellow made such a disturbance that Bankei stopped his discourse and asked about the noise.
 "The founder of our sect," boasted the priest, "had such miraculous powers that he held a brush in his hand on one bank of the river, his attendant held up a paper on the other bank, and the teacher wrote the holy name of Amida through the air. Can you do such a wonderful thing?"
 Bankei replied lightly: "Perhaps your fox can perform that trick, but that is not the manner of Zen. My miracle is that when I feel hungry I eat, and when I feel thirsty I drink."
 EOK
@@ -1059,17 +1084,17 @@ EOK
     {
       title => "Time to Die", 
       body => <<'EOK',
-Ikkyu, the Zen master, was very clever even as a boy. His teacher had aprecious teacup, a rare antique. Ikkyu happened to break this cup and wasgreatly perplexed. Hearing the footsteps of his teacher, he held thepieces of the cup behind him. When the master appeared, Ikkyu asked: "Whydo people have to die?"
-"This is natural," explained the older man. "Everything has to die andhas just so long to live."
-Ikkyu, producing the shattered cup, added: "It was time for your cup todie."
+Ikkyu, the Zen master, was very clever even as a boy. His teacher had a precious teacup, a rare antique. Ikkyu happened to break this cup and was greatly perplexed. Hearing the footsteps of his teacher, he held the pieces of the cup behind him. When the master appeared, Ikkyu asked: "Why do people have to die?"
+"This is natural," explained the older man. "Everything has to die and has just so long to live."
+Ikkyu, producing the shattered cup, added: "It was time for your cup to die."
 EOK
     },
 
     {
       title => "The Living Buddha & the Tubmaker", 
       body => <<'EOK',
-Zen masters give personal gidance in a secluded room. No one enters while teacher and pupil are together.
-Mokurai, the Zen master of Kennin temple in Kyoto, used ot enjoy talking with merchants and newspapermen as well as with his pupils. A certain tubmaker was almost illiterate. He would ask foolish questions of Mokurai, have tea, and then go away.
+Zen masters give personal guidance in a secluded room. No one enters while teacher and pupil are together.
+Mokurai, the Zen master of Kennin temple in Kyoto, used to enjoy talking with merchants and newspapermen as well as with his pupils. A certain tubmaker was almost illiterate. He would ask foolish questions of Mokurai, have tea, and then go away.
 One day while the tubmaker was there Mokurai wished to give personal guidance to a disciple, so he asked the tubmaker to wait in another room.
 "I understand you are a living Buddha," the man protested. "Even the stone Buddhas in the temple never refuse the numerous persons who come together before them. Why then should I be excluded?"
 Mokurai had to go outside to see his disciple.
@@ -1090,14 +1115,17 @@ EOK
 A well-known Japanese poet was asked how to compose a Chinese poem.
 "The usual Chinese poem is four lines," he explained. "The first line contains the initial phrase; the second line, the continuation of that phrase; the third line turns from this subject and begins a new one; and the fourth line brings the first three lines together. A popular Japanese song illustrates this:
 
-<dl><dd><i>Two daughters of a silk merchant live in Kyoto.<br>The elder is twenty, the younger, eighteen.<br>A soldier may kill with his sword,<br>But these girls slay men with their eyes."</i></dd></dl>
+  Two daughters of a silk merchant live in Kyoto.
+  The elder is twenty, the younger, eighteen.
+  A soldier may kill with his sword,
+  But these girls slay men with their eyes."
 EOK
     },
 
     {
       title => "Zen Dialogue", 
       body => <<'EOK',
-Zen teachers train their young pupils to express themselves. Two Zen temples each had a child prot&#233;g&#233;. One child, going to obtain vegetables each morning, would meet the other on the way.
+Zen teachers train their young pupils to express themselves. Two Zen temples each had a child protege. One child, going to obtain vegetables each morning, would meet the other on the way.
 "Where are you going?" asked the one.
 "I am going wherever my feet go," the other responded.
 This reply puzzled the first child who went to his teacher for help. "Tomorrow morning," the teacher told him, "when you meet that little fellow, ask him the same question. He will give you the same answer, and then you ask him: 'Suppose you have no feet, then where are you going?' That will fix him."
@@ -1216,8 +1244,8 @@ EOK
 Kitano Gempo, abbot of Eihei temple, was ninety-two years old when he passed away in the year 1933. He endeavored his whole like not to be attached to anything. As a wandering mendicant when he was twenty he happened to meet a traveler who smoked tobacco. As they walked together down a mountain road, they stopped under a tree to rest. The traveler offered Kitano a smoke, which he accepted, as he was very hungry at the time.
 "How pleasant this smoking is," he commented. The other gave him an extra pipe and tobacco and they parted.
 Kitano felt: "Such pleasant things may disturb meditation. Before this goes too far, I will stop now." So he threw the smoking outfit away.
-When he was twenty-three years old he studied <i>I-King</i>, the profoundest doctrine of the universe. It was winter at the time and he needed some heavy clothes. He wrote his teacher, who lived a hundred miles away, telling him of his need, and gave the letter to a traveler to deliver. Almost the whole winter passed and neither answer nor clothes arrived. So Kitano resorted to the prescience of <i>I-King</i>, which also teaches the art of divination, to determine whether or not his letter had miscarried. He found that this had been the case. A letter afterwards from his teacher made no mention of clothes.
-"If I perform such accurate determinative work with <i>I-King</i>, I may neglect my meditation," felt Kitano. So he gave up this marvelous teaching and never resorted to its powers again.
+When he was twenty-three years old he studied I-King, the profoundest doctrine of the universe. It was winter at the time and he needed some heavy clothes. He wrote his teacher, who lived a hundred miles away, telling him of his need, and gave the letter to a traveler to deliver. Almost the whole winter passed and neither answer nor clothes arrived. So Kitano resorted to the prescience of I-King, which also teaches the art of divination, to determine whether or not his letter had miscarried. He found that this had been the case. A letter afterwards from his teacher made no mention of clothes.
+"If I perform such accurate determinative work with I-King, I may neglect my meditation," felt Kitano. So he gave up this marvelous teaching and never resorted to its powers again.
 When he was twenty-eight he studied Chinese calligraphy and poetry. He grew so skillful in these arts that his teacher praised him. Kitano mused: "If I don't stop now, I'll be a poet, not a Zen teacher." So he never wrote another poem.
 EOK
     },
