@@ -6,7 +6,7 @@ our @EXPORT_OK = qw(get_koan num_koans $VERSION);
 use Carp qw(croak);
 use Zen::Koan;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 our @koans = (
     {
@@ -1351,7 +1351,10 @@ Provides no analysis of the meanings of these koans.
 
 =head1 AUTHOR
 
-Luke Closs <lukec@cpan.org>
+Luke Closs <lukec@cpan.org> is the author of this module, but not of the
+Koans.  Luke also checked the koans for errors and fixed many small typos.
+
+Thanks to Jennifer Roger for her help with spellchecking.
 
 =head1 DISCLAIMER OF WARRANTY
 

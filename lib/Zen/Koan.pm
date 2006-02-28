@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Carp qw/croak/;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new {
     my $class = shift;
@@ -74,3 +74,78 @@ EOT
 }
 
 1;
+
+__END__
+
+=head1 NAME
+
+Zen::Koan - A class for representing Zen Koans
+
+=head1 SYNOPSIS
+
+  use Zen::Koan;
+  my $k = Zen::Koans->new( title => $title,
+                           body  => $body,
+                         );
+  my $t = $k->title;
+  my $b = $k->body;
+  print $k->as_html;
+
+=head1 DESCRIPTION
+
+A koan (pronounced /ko.an/) is a story, dialog, question, or statement in
+the history and lore of Chan (Zen) Buddhism, generally containing aspects
+that are inaccessible to rational understanding, yet that may be
+accessible to intuition.
+
+This module contains code to represent a zen koan.  
+
+=head1 INTERFACE
+
+=over 4
+
+=item new( %opts )
+
+Create a new koan with C<new>.  The following options are suggested:
+
+=over 4
+
+=item title
+
+=item body
+
+These functions return the values of the koan.
+
+=back
+
+=item title
+
+Returns the title of the koan.
+
+=item body
+
+Returs the body of the koan.
+
+=item as_html
+
+Returns the koan formatted in HTML.
+
+=back
+
+=head1 DEPENDENCIES
+
+A creative mind or access to one.
+
+=head1 BUGS AND LIMITATIONS
+
+None.
+
+=head1 AUTHOR
+
+Luke Closs <lukec@cpan.org>
+
+=head1 DISCLAIMER OF WARRANTY
+
+This module can only offer you so much.  
+It is up to you to make the most of it.
+

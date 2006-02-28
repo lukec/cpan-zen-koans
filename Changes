@@ -1,6 +1,10 @@
 Zen-Koans
 
-0.02
+0.03 - 27 Feb 2006
+ - added pod for Koan.pm
+ - thanked Jen for her help
+
+0.02 - 26 Feb 2006
  - fixed typos in the koans
  - created Zen::Koan class
  - cleaned up and added tests
