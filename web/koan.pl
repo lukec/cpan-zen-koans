@@ -1,14 +1,13 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
-use FindBin;
-use Zen::Koans qw(koan_as_html);
+use Zen::Koans qw(get_koan);
 use CGI qw(header param);
 
 print header;
 
 my $num = param("n") || param("num");
-eval { print koan_as_html($num) };
+eval { print get_koan($num)->as_html };
 if ($@) { 
     print "Error: $@";
 }
