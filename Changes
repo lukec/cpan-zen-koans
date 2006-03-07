@@ -1,5 +1,10 @@
 Zen-Koans
 
+0.04 - 7 March 2006
+ - updated Zen::Koans usage POD
+ - received patch from Lech Baczynski to create a fortune file
+ - added fortune tests and reworked patch
+
 0.03 - 27 Feb 2006
  - added pod for Koan.pm
  - thanked Jen for her help

@@ -11,6 +11,8 @@ inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 lib/Zen/Koans.pm
 lib/Zen/Koan.pm
+t/fortune.t
+t/fortune.txt
 t/koan.t
 t/zen.t
 web/koan.pl
