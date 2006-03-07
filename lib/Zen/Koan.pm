@@ -65,6 +65,11 @@ $body</div>
 EOT
 }
 
+sub as_text {
+    my $self = shift;
+    return "\t$self->{title}\n\n$self->{body}";
+}
+
 sub AUTOLOAD {
     return <<EOT
 You are expecting too much from this koan.  

@@ -46,13 +46,15 @@ Multi_paragraph_koan: {
 EOT
 }
 
-Koan_with_poem: {
-    my $k = Zen::Koan->new( body => <<EOK );
+sub poem_koan { Zen::Koan->new( body => <<EOK ) }
 Here is my poem:
   No more water in the pail!
   No more moon in the water!
 That is my poem.
 EOK
+
+Koan_with_poem: {
+    my $k = poem_koan();
     is $k->as_html, <<EOK;
 <div id='koan_title'>A koan by no other name</div>
 <div id='koan_body'>
@@ -63,6 +65,18 @@ EOK
 </blockquote>
 <p>That is my poem.</p>
 </div>
+EOK
+}
+
+Koan_as_text: {
+    my $k = poem_koan();
+    is $k->as_text, <<EOK;
+	A koan by no other name
+
+Here is my poem:
+  No more water in the pail!
+  No more moon in the water!
+That is my poem.
 EOK
 }
 
