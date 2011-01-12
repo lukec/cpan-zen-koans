@@ -10,7 +10,7 @@ our $VERSION = '0.04';
 
 our @koans = (
     {
-      title => "A Cup of Tea", 
+      title => "A Cup of Tea",
       body => <<'EOK',
 Nan-in, a Japanese master during the Meiji era (1868-1912), received a university professor who came to inquire about Zen.
 Nan-in served tea. He poured his visitor's cup full, and then kept on pouring.
@@ -20,22 +20,22 @@ EOK
     },
 
     {
-      title => "Finding a Diamond on a Muddy Road", 
+      title => "Finding a Diamond on a Muddy Road",
       body => <<'EOK',
-Gudo was the emperor's teacher of his time. Nevertheless, he used to travel alone as a wandering mendicant. Once when he was on his way to Edo, the cultural and political center of the shogunate, he approached alittle village named Takenaka. It was evening and a heavy rain was falling. Gudo was thoroughly wet. His straw sandals were in pieces. At a farmhouse near the village he noticed four or five pairs of sandals in the window and decided to buy some dry ones. 
-The woman who offered him the sandals, seeing how wet he was, invited him in to remain for the night in her home. Gudo accepted, thanking her.  He entered and recited a sutra before the family shrine.  He was then introduced to the women's mother, and to her children.  Observing that theentire family was depressed, Gudo asked what was wrong. 
+Gudo was the emperor's teacher of his time. Nevertheless, he used to travel alone as a wandering mendicant. Once when he was on his way to Edo, the cultural and political center of the shogunate, he approached alittle village named Takenaka. It was evening and a heavy rain was falling. Gudo was thoroughly wet. His straw sandals were in pieces. At a farmhouse near the village he noticed four or five pairs of sandals in the window and decided to buy some dry ones.
+The woman who offered him the sandals, seeing how wet he was, invited him in to remain for the night in her home. Gudo accepted, thanking her.  He entered and recited a sutra before the family shrine.  He was then introduced to the women's mother, and to her children.  Observing that theentire family was depressed, Gudo asked what was wrong.
 "My husband is a gambler and a drunkard," the housewife told him. "When he happens to win he drinks and becomes abusive. When he loses he borrows money from others. Sometimes when he becomes thoroughly drunk he does not come home at all.  What can I do?"
-"I will help him," said Gudo. "Here is some money. Get me a gallon of fine wine and something good to eat. Then you may retire. I will meditate before the shrine." 
+"I will help him," said Gudo. "Here is some money. Get me a gallon of fine wine and something good to eat. Then you may retire. I will meditate before the shrine."
 When the man of the house returned about midnight, quite drunk, he bellowed: "Hey, wife, I am home. Have you something for me to eat?"
-"I have something for you," said Gudo. "I happened to be caught in the rain and your wife kindly asked me to remain here for the night. In return I have bought some wine and fish, so you might as well have them." 
-The man was delighted. He drank the wine at once and laid himself down on the floor. Gudo sat in meditation beside him. 
-In the morning when the husband awoke he had forgotten about the previous night. "Who are you? Where do you come from?" he asked Gudo, who was still meditating. 
+"I have something for you," said Gudo. "I happened to be caught in the rain and your wife kindly asked me to remain here for the night. In return I have bought some wine and fish, so you might as well have them."
+The man was delighted. He drank the wine at once and laid himself down on the floor. Gudo sat in meditation beside him.
+In the morning when the husband awoke he had forgotten about the previous night. "Who are you? Where do you come from?" he asked Gudo, who was still meditating.
 "I am Gudo of Kyoto and I am going on to Edo," replied the Zen master.
-The man was utterly ashamed. He apologized profusely to the teacher of his emperor. 
-Gudo smiled. "Everything in this life is impermanent," he explained."Life is very brief. If you keep on gambling and drinking, you will have no time left to accomplish anything else, and you will cause your family to suffer too." 
-The perception of the husband awoke as if from a dream. "You are right," he declared. "How can I ever repay you for this wonderful teaching! Let me see you off and carry your things a little way." 
+The man was utterly ashamed. He apologized profusely to the teacher of his emperor.
+Gudo smiled. "Everything in this life is impermanent," he explained."Life is very brief. If you keep on gambling and drinking, you will have no time left to accomplish anything else, and you will cause your family to suffer too."
+The perception of the husband awoke as if from a dream. "You are right," he declared. "How can I ever repay you for this wonderful teaching! Let me see you off and carry your things a little way."
 "If you wish," assented Gudo.
-The two started out. After they had gone three miles Gudo told him to return. "Just another five miles," he begged Gudo. They continued on. 
+The two started out. After they had gone three miles Gudo told him to return. "Just another five miles," he begged Gudo. They continued on.
 "You may return now," suggested Gudo.
 "After another ten miles," the man replied.
 "Return now," said Gudo, when the ten miles had been passed.
@@ -45,37 +45,37 @@ EOK
     },
 
     {
-      title => "Is That So?", 
+      title => "Is That So?",
       body => <<'EOK',
-The Zen master Hakuin was praised by his neighbours as one living a pure life. 
+The Zen master Hakuin was praised by his neighbours as one living a pure life.
 A beautiful Japanese girl whose parents owned a food store lived near him.  Suddenly, without any warning, her parents discovered she had a child.
 This made her parents angry. She would not confess who the man was, but after much harassment at last named Hakuin.
-In great anger the parent went to the master. "Is that so?" was all he would say. 
-After the child was born it was brought to Hakuin. By this time he had lost his reputation, which did not trouble him, but he took very good care of the child. He obtained milk from his neighbours and everything else he needed. 
-A year later the girl-mother could stand it no longer. She told her parents the truth - the real father of the child was a young man who worked in the fish market. 
-The mother and father of the girl at once went to Hakuin to ask forgiveness, to apologize at length, and to get the child back. 
+In great anger the parent went to the master. "Is that so?" was all he would say.
+After the child was born it was brought to Hakuin. By this time he had lost his reputation, which did not trouble him, but he took very good care of the child. He obtained milk from his neighbours and everything else he needed.
+A year later the girl-mother could stand it no longer. She told her parents the truth - the real father of the child was a young man who worked in the fish market.
+The mother and father of the girl at once went to Hakuin to ask forgiveness, to apologize at length, and to get the child back.
 Hakuin was willing. In yielding the child, all he said was: "Is that so?"
 EOK
     },
 
     {
-      title => "Obedience", 
+      title => "Obedience",
       body => <<'EOK',
 The master Bankei's talks were attended not only by Zen students but by persons of all ranks and sects. He never quoted sutras nor indulged inscholastic dissertations. Instead, his words were spoken directly from his heart to the hearts of his listeners.
 His large audience angered a priest of the Nichiren sect because the adherents had left to hear about Zen. The self-centered Nichiren priest came to the temple, determined to have a debate with Bankei.
-"Hey, Zen teacher!" he called out. "Wait a minute. Whoever respects youwill obey what you say, but a man like myself does not respect you. Can you make me obey you?"
+"Hey, Zen teacher!" he called out. "Wait a minute. Whoever respects you will obey what you say, but a man like myself does not respect you. Can you make me obey you?"
 "Come up beside me and I will show you," said Bankei.
 Proudly the priest pushed his way through the crowd to the teacher.
 Bankei smiled. "Come over to my left side."
 The priest obeyed.
-"No," said Bankei, "we may talk better if you are on the right side.  Step over here." 
+"No," said Bankei, "we may talk better if you are on the right side.  Step over here."
 The priest proudly stepped over to the right.
 "You see," observed Bankei, "you are obeying me and I think you are avery gentle person. Now sit down and listen."
 EOK
     },
 
     {
-      title => "If You Love, Love Openly", 
+      title => "If You Love, Love Openly",
       body => <<'EOK',
 Twenty monks and one nun, who was named Eshun, were practicing meditation with a certain Zen master.
 Eshun was very pretty even though her head was shaved and her dress plain. Several monks secretly fell in love with her. One of them wrote her a love letter, insisting upon a private meeting.
@@ -84,11 +84,11 @@ EOK
     },
 
     {
-      title => "No Loving-Kindness", 
+      title => "No Loving-Kindness",
       body => <<'EOK',
-There was an old woman in China who had supported a monk for over twenty years. She had built a little hut for him and fed him while he was meditating. Finally she wondered just what progress he had made in all this time. 
+There was an old woman in China who had supported a monk for over twenty years. She had built a little hut for him and fed him while he was meditating. Finally she wondered just what progress he had made in all this time.
 To find out, she obtained the help of a girl rich in desire. "Go and embrace him," she told her, "and then ask him suddenly: 'What now?'"
-The girl called upon the monk and without much ado caressed him, asking him what he was going to do about it. 
+The girl called upon the monk and without much ado caressed him, asking him what he was going to do about it.
 "An old tree grows on a cold rock in winter," replied the monk somewhat poetically. "Nowhere is there any warmth."
 The girl returned and related what he had said.
 "To think I fed that fellow for twenty years!" exclaimed the old woman in anger. "He showed no consideration for your needs, no disposition to explain your condition. He need not have responded to passion, but atleast he should have evidenced some compassion."
@@ -97,9 +97,9 @@ EOK
     },
 
     {
-      title => "Announcement", 
+      title => "Announcement",
       body => <<'EOK',
-Tanzan wrote sixty postal cards on the last day of his life, and asked an attendent to mail them. Then he passed away. 
+Tanzan wrote sixty postal cards on the last day of his life, and asked an attendent to mail them. Then he passed away.
 The cards read:
 
 I am departing from this world.  This is my last announcement.  Tanzan  July 27, 1892
@@ -107,7 +107,7 @@ EOK
     },
 
     {
-      title => "Great Waves", 
+      title => "Great Waves",
       body => <<'EOK',
 In the early days of the Meiji era there lived a well-known wrestler called O-nami, Great Waves.
 O-nami was immensely strong and knew the art of wrestling. In his private bouts he defeated even his teacher, but in public he was so bashful that his own pupils threw him.
@@ -120,7 +120,7 @@ EOK
     },
 
     {
-      title => "The Moon Cannot Be Stolen", 
+      title => "The Moon Cannot Be Stolen",
       body => <<'EOK',
 Ryokan, a Zen master, lived the simplest kind of life in a little hut at the foot of a mountain. One evening a thief visited the hut only to discover there was nothing to steal.
 Ryokan returned and caught him. "You have come a long way to visit me," he told the prowler, "and you should not return empty-handed. Please take my clothes as a gift."
@@ -130,9 +130,9 @@ EOK
     },
 
     {
-      title => "The Last Poem of Hoshin", 
+      title => "The Last Poem of Hoshin",
       body => <<'EOK',
-The Zen Master Hoshin lived in China many years. Then he returned to the northeastern part of Japan, where he taught his disciples. When he was getting very old, he told them a story he had heard in China. This is the story: 
+The Zen Master Hoshin lived in China many years. Then he returned to the northeastern part of Japan, where he taught his disciples. When he was getting very old, he told them a story he had heard in China. This is the story:
 One year on the twenty-fifth of December, Tokufu, who was very old, said to his disciples: "I am not going to be alive next year so you fellows should treat me well this year."
 The pupils thought he was joking, but since he was a great-hearted teacher each of them in turn treated him to a feast on succeeding days of the departing year.
 On the eve of the new year, Tokufu concluded: "You have been good to me. I shall leave tomorrow afternoon when the snow has stopped."
@@ -157,7 +157,7 @@ EOK
     },
 
     {
-      title => "The Story of Shunkai", 
+      title => "The Story of Shunkai",
       body => <<'EOK',
 The exquisite Shunkai whose other name was Suzu was compelled to marry against her wishes when she was quite young. Later, after this marriage had ended, she attended the university, where she studied philosophy.
 To see Shunkai was to fall in love with her. Moreover, wherever she went, she herself fell in love with others. Love was with her at the university, and afterwards when philosophy did not satisfy her and she visited the temple to learn about Zen, the Zen students fell in love with her. Shunkai's whole life was saturated with love.
@@ -168,18 +168,18 @@ In this particular temple the wife of the head priest had become jealous of Shun
 Shunkai the same night with a can of kerosene set fire to the five-hundred-year-old temple and burned it to the ground. In the morning she found herself in the hands of the police.
 A young lawyer became interested in her and endeavoured to make her sentence lighter. "Do not help me." she told him. "I might decide to do something else which will only imprison me again."
 At last a sentance of seven years was completed, and Shunkai was released from the prison, where the sixty-year-old warden also had become enamored of her.
-But now everyone looked upon her as a "jailbird". No one would associate with her. Even the Zen people, who are supposed to believe inenlightenment in this life and with this body, shunned her. Zen, Shunkai found, was one thing and the followers of Zen quite another. Her relatives would have nothing to do with her. She grew sick, poor, and weak.
+But now everyone looked upon her as a "jailbird". No one would associate with her. Even the Zen people, who are supposed to believe in enlightenment in this life and with this body, shunned her. Zen, Shunkai found, was one thing and the followers of Zen quite another. Her relatives would have nothing to do with her. She grew sick, poor, and weak.
 She met a Shinshu priest who taught her the name of the Buddha of Love, and in this Shunkai found some solace and peace of mind. She passed away when she was still exquisitely beautiful and hardly thirty years old.
 She wrote her own story in a futile endeavour to support herself and some of it she told to a women writer. So it reached the Japanese people. Those who rejected Shunkai, those who slandered and hated her, now read of her life with tears of remorse.
 EOK
     },
 
     {
-      title => "Happy Chinaman", 
+      title => "Happy Chinaman",
       body => <<'EOK',
 Anyone walking about Chinatowns in America will observe statues of a stout fellow carrying a linen sack. Chinese merchants call him Happy Chinaman or Laughing Buddha.
 This Hotei lived in the T'ang dynasty. He had no desire to call himself a Zen master or to gather many disciples about him. Instead he walked the streets with a big sack into which he would put gifts of candy, fruit, or doughnuts. These he would give to children who gathered around him in play. He established a kindergarten of the streets.
-Whenever he met a Zen devotee he would extend his hand and say: "Givewme one penny." And if anyone asked him to return to a temple to teach others, again he would reply: "Give me one penny."
+Whenever he met a Zen devotee he would extend his hand and say: "Give me one penny." And if anyone asked him to return to a temple to teach others, again he would reply: "Give me one penny."
 Once he was about his play-work when another Zen master happened along and inquired: "What is the significance of Zen?"
 Hotei immediately plopped his sack down on the ground in silent answer.
 "Then," asked the other, "what is the actualization of Zen?"
@@ -188,7 +188,7 @@ EOK
     },
 
     {
-      title => "A Buddha", 
+      title => "A Buddha",
       body => <<'EOK',
 In Tokyo in the Meiji era there lived two prominent teachers of opposite characteristics. One, Unsho, an instructor in Shingon, kept Buddha's precepts scrupulously. He never drank intoxicants, nor did he eat after eleven o'clock in the morning. The other teacher, Tanzan, a professor of philosophy at the Imperial University, never observed the precepts. Whenever he felt like eating, he ate, and when he felt like sleeping in the daytime he slept.
 One day Unsho visited Tanzan, who was drinking wine at the time, not even a drop of which is suppposed to touch the tongue of a Buddhist.
@@ -201,7 +201,7 @@ EOK
     },
 
     {
-      title => "Muddy Road", 
+      title => "Muddy Road",
       body => <<'EOK',
 Tanzan and Ekido were once traveling together down a muddy road. A heavy rain was still falling.
 Coming around a bend, they met a lovely girl in a silk kimono and sash, unable to cross the intersection.
@@ -212,7 +212,7 @@ EOK
     },
 
     {
-      title => "Shoun & His Mother", 
+      title => "Shoun & His Mother",
       body => <<'EOK',
 Shoun became a teacher of Soto Zen. When he was still a student his father passed away, leaving him to care for his old mother.
 Whenever Shoun went to a meditation hall he always took his mother with him. Since she accompanied him, when he visited monasteries he could not live with the monks.  So he would built a little house and care for her there. He would copy sutras, Buddhist verses, and in this manner receive a few coins for food.
@@ -234,7 +234,7 @@ EOK
     },
 
     {
-      title => "Not Far from Buddhahood", 
+      title => "Not Far from Buddhahood",
       body => <<'EOK',
 A university student while visiting Gasan asked him: "Have you ever read the Christian Bible?"
 "No, read it to me," said Gasan.
@@ -246,7 +246,7 @@ EOK
     },
 
     {
-      title => "Stingy in Teaching", 
+      title => "Stingy in Teaching",
       body => <<'EOK',
 A young physician in Tokyo named Kusuda met a college friend who had been studying Zen. The young doctor asked him what Zen was.
 "I cannot tell you what it is," the friend replied, "but one thing is certain. If you understand Zen, you will not be afraid to die."
@@ -268,16 +268,16 @@ EOK
     },
 
     {
-      title => "A Parable", 
+      title => "A Parable",
       body => <<'EOK',
 Buddha told a parable in sutra:
 A man traveling across a field encountered a tiger. He fled, the tiger after him. Coming to a precipice, he caught hold of the root of a wild vine and swung himself down over the edge. The tiger sniffed at him from above. Trembling, the man looked down to where, far below, another tiger was waiting to eat him. Only the vine sustained him.
-Two mice, one white and one black, little by little started to gnaw away the vine. The man saw a luscious strawberry near him.  Grasping the vine with one hand, he plucked the strawberry with the other. How sweet it tasted! 
+Two mice, one white and one black, little by little started to gnaw away the vine. The man saw a luscious strawberry near him.  Grasping the vine with one hand, he plucked the strawberry with the other. How sweet it tasted!
 EOK
     },
 
     {
-      title => "The First Principle", 
+      title => "The First Principle",
       body => <<'EOK',
 When one goes to Obaku temple in Kyoto he sees carved over the gate the words "The First Principle". The letters are unusually large, and those who appreciate calligraphy always admire them as being a mastepiece.  They were drawn by Kosen two hundred years ago.
 When the master drew them he did so on paper, from which the work men made the large carving in wood. As Kosen sketched the letters a bold pupil was with him who had made several gallons of ink for the calligraphy and who never failed to criticise his master's work.
@@ -293,16 +293,16 @@ EOK
 # Koans below here have not been checked for squished words
 
     {
-      title => "A Mother's Advice", 
+      title => "A Mother's Advice",
       body => <<'EOK',
 Jiun, a Shingon master, was a well-known Sanskrit scholar of the Tokugawa era. When he was young he used to deliver lectures to his brother students.
 His mother heard about this and wrote him a letter:
-"Son, I do not think you became a devotee of the Buddha because you desired to turn into a walking dictionary for others. There is no end to information and commentation, glory and honor. I wish you would stop this lecture business. Shut yourself up in a little temple in a remote part ofthe mountain. Devote your time to meditation and in this way attain true realization." 
+"Son, I do not think you became a devotee of the Buddha because you desired to turn into a walking dictionary for others. There is no end to information and commentation, glory and honor. I wish you would stop this lecture business. Shut yourself up in a little temple in a remote part ofthe mountain. Devote your time to meditation and in this way attain true realization."
 EOK
     },
 
     {
-      title => "The Sound of One Hand", 
+      title => "The Sound of One Hand",
       body => <<'EOK',
 The master of Kennin temple was Mokurai, Silent Thunder. He had a little protege named Toyo who was only twelve years old. Toyo saw the older disciples visit the master's room each morning and evening to receive instruction in sanzen or personal guidance in which they were given koans to stop mind-wandering.
 Toyo wished to do sanzen also.
@@ -326,7 +326,7 @@ EOK
     },
 
     {
-      title => "My Heart Burns Like Fire", 
+      title => "My Heart Burns Like Fire",
       body => <<'EOK',
 Soyen Shaku, the first Zen teacher to come to America, said: "My heart burns like fire but my eyes are as cold as dead ashes." He made the following rules which he practiced every day of his life.
 In the morning before dressing, light incense and meditate.
@@ -341,7 +341,7 @@ EOK
     },
 
     {
-      title => "Eshun's Departure", 
+      title => "Eshun's Departure",
       body => <<'EOK',
 When Eshun, the Zen nun, was past sixty and about to leave this world, she asked some monks to pile up wood in the yard.
 Seating herself firmly in the center of the funeral pyre, she had itset fire around the edges.
@@ -352,7 +352,7 @@ EOK
     },
 
     {
-      title => "Reciting Sutras", 
+      title => "Reciting Sutras",
       body => <<'EOK',
 A farmer requested a Tendai priest to recite sutras for his wife, who had died. After the recitation was over the farmer asked:  "Do you think my wife will gain merit from this?"
 "Not only your wife, but all sentient beings will benefit from the recitation of sutras," answered the priest.
@@ -363,7 +363,7 @@ EOK
     },
 
     {
-      title => "Three Days More", 
+      title => "Three Days More",
       body => <<'EOK',
 Suiwo, the disciple of Hakuin, was a good teacher. During one summer seclusion period, a pupil came to him from a southern island of Japan.
 Suiwo gave him the problem: "Hear the sound of one hand."
@@ -375,7 +375,7 @@ EOK
     },
 
     {
-      title => "Trading Dialogue for Lodging", 
+      title => "Trading Dialogue for Lodging",
       body => <<'EOK',
 Provided he makes and wins an argument about Buddhism with those who live there, any wondering monk can remain in a Zen temple. If he is defeated, he has to move on.
 In a temple in the northern part of Japan two brother monks were dwelling together. The elder one was learned, but the younger one was stupid and had but one eye.
@@ -393,7 +393,7 @@ EOK
     },
 
     {
-      title => "The Voice of Happiness", 
+      title => "The Voice of Happiness",
       body => <<'EOK',
 After Bankei had passed away, a blind man who lived near the master's temple told a friend:
 "Since I am blind, I cannot watch a person's face, so I must judge his character by the sound of his voice. Ordinarily when I hear someone congratulate another upon his happiness or success, I also hear a secret tone of envy.  When condolence is expressed for the misfortune of another, I hear pleasure and satisfaction, as if the one condoling was really glad there was something left to gain in his own world.
@@ -402,7 +402,7 @@ EOK
     },
 
     {
-      title => "Open Your Own Treasure House", 
+      title => "Open Your Own Treasure House",
       body => <<'EOK',
 Daiju visited the master Baso in China. Baso asked: "What do you seek?"
 "Enlightenment," replied Daiju.
@@ -414,7 +414,7 @@ EOK
     },
 
     {
-      title => "No Water, No Moon", 
+      title => "No Water, No Moon",
       body => <<'EOK',
 When the nun Chiyono studied Zen under Bukko of Engaku she was unable to attain the fruits of meditation for a long time.
 At last one moonlit night she was carrying water in an old pail bound with bamboo. The bamboo broke and the bottom fell out of the pail, and at that moment Chiyono was set free!
@@ -429,7 +429,7 @@ EOK
     },
 
     {
-      title => "Calling Card", 
+      title => "Calling Card",
       body => <<'EOK',
 Keichu, the great Zen teacher of the Meiji era, was the head of Tofuku, a cathedral in Kyoto. One day the governor of Kyoto called upon him for the first time.
 His attendant presented the card of the governor, which read: Kitagaki, Governor of Kyoto.
@@ -440,7 +440,7 @@ EOK
     },
 
     {
-      title => "Everything Is Best", 
+      title => "Everything Is Best",
       body => <<'EOK',
 When Banzan was walking through a market he overheard a conversation between a butcher and his customer.
 "Give me the best piece of meat you have," said the customer.
@@ -450,7 +450,7 @@ EOK
     },
 
     {
-      title => "Inch Time Foot Gem", 
+      title => "Inch Time Foot Gem",
       body => <<'EOK',
 A lord asked Takuan, a Zen Teacher, to suggest how he might pass the time. He felt his days very long attending his office and sitting stiffly to receive the homage of others.
 Takuan wrote eight Chinese characters and gave them to the man:
@@ -463,7 +463,7 @@ EOK
     },
 
     {
-      title => "Mokusen's Hand", 
+      title => "Mokusen's Hand",
       body => <<'EOK',
 Mokusen Hiki was living in a temple in the province of Tamba. One of his adherents complained of the stinginess of his wife.
 Mokusen visited the adherent's wife and showed her his clenched fist before her face.
@@ -478,7 +478,7 @@ EOK
     },
 
     {
-      title => "A Smile in His Lifetime", 
+      title => "A Smile in His Lifetime",
       body => <<'EOK',
 Mokugen was never known to smile until his last day on earth. When his time came to pass away he said to his faithful ones: "You have studied under me for more than ten years. Show me your real interpretation of Zen. Whoever expresses this most clearly shall be my successor and receive my robe and bowl."
 Everyone watched Mokugen's severe face, but no one answered.
@@ -490,7 +490,7 @@ EOK
     },
 
     {
-      title => "Every-Minute Zen", 
+      title => "Every-Minute Zen",
       body => <<'EOK',
 Zen students are with their masters at least ten years before they presume to teach others. Nan-in was visited by Tenno, who, having passed his apprenticeship, had become a teacher. The day happened to be rainy, so Tenno wore wooden clogs and carried an umbrella. After greeting him Nan-in remarked: "I suppose you left your wodden clogs in the vestibule. I want to know if your umbrella is on the right or left side of the clogs."
 Tenno, confused, had no instant answer. He realized that he was unable to carry his Zen every minute. He became Nan-in's pupil, and he studied six more years to accomplish his every-minute Zen.
@@ -498,7 +498,7 @@ EOK
     },
 
     {
-      title => "Flower Shower", 
+      title => "Flower Shower",
       body => <<'EOK',
 Subhuti was Buddha's disciple. He was able to understand the potency of emptiness, the viewpoint that nothing exists except in its relationship of subjectivity and objectivity.
 One day Subhuti, in a mood of sublime emptiness, was sitting under a tree. Flowers began to fall about him.
@@ -509,7 +509,7 @@ EOK
     },
 
     {
-      title => "Publishing the Sutras", 
+      title => "Publishing the Sutras",
       body => <<'EOK',
 Tetsugen, a devotee of Zen in Japan, decided to publish the sutras, which at that time were available only in Chinese. The books were to be printed with wood blocks in an edition of seven thousand copies, a tremendous undertaking.
 Tetsugen began by traveling and collecting donations for this purpose. A few sympathizers would give him a hundred pieces of gold, but most of the time he received only small coins. He thanked each donor with equal gratitude. After ten years Tetsugen had enough money to begin his task.
@@ -520,7 +520,7 @@ EOK
     },
 
     {
-      title => "Gisho's Work", 
+      title => "Gisho's Work",
       body => <<'EOK',
 Gisho was ordained as a nun when she was just ten years old. She received training just as the little boys did. When she reached the age of sixteen she traveled from one Zen master to another, studying with them all.
 She remained three years with Unzan, six years with Gukei, but was unable to obtain a clear vision. At last she went to the master Inzan.
@@ -539,7 +539,7 @@ EOK
     },
 
     {
-      title => "Sleeping in the Daytime", 
+      title => "Sleeping in the Daytime",
       body => <<'EOK',
 The master Soyen Shaku passed from this world when he was sixty-one years of age. Fulfilling his life's work, he left a great teaching, far richer than that of most Zen masters. His pupils used to sleep in the daytime during midsummer, and while he overlooked this he himself never wasted a minute.
 When he was but twelve years old he was already studying Tendai philosophical speculation. One summer day the air had been so sultry that little Soyen stretched his legs and went to sleep while his teacher was away.
@@ -549,7 +549,7 @@ EOK
     },
 
     {
-      title => "In Dreamland", 
+      title => "In Dreamland",
       body => <<'EOK',
 "Our school master used to take a nap every afternoon", related a disciple of Soyen Shaku. "We children asked him why he did it and he told us: 'I go to dreamland to meet the old sages just as Confucius did.' When Confucius slept, he would dream of ancient sages and later tell his followers about them.
 "It was extremely hot one day so some of us took a nap. Our school master scolded us. 'We went to dreamland to meet the ancient sages the same as Confucius did', we explained. 'What was the message from those sages?' our school master demanded. One of us replied: 'We went to dreamland and met the sages and asked them if our schoolmaster came there every afternoon, but they said they had never seen any such fellow.'"
@@ -557,7 +557,7 @@ EOK
     },
 
     {
-      title => "Joshu's Zen", 
+      title => "Joshu's Zen",
       body => <<'EOK',
 Joshu began the study of Zen when he was sixty years old and continued until he was eighty, when he realized Zen.
 He taught from the age of eighty until he was one hundred and twenty.
@@ -569,7 +569,7 @@ EOK
     },
 
     {
-      title => "The Dead Man's Answer", 
+      title => "The Dead Man's Answer",
       body => <<'EOK',
 When Mamiya, who later became a well-known preacher, went to a teacher for personal guidance, he was asked to explain the sound of one hand.
 Mamiya concentrated upon what the sound of one hand might be. "You are not working hard enough," his teacher told him. "You are too attached to food, wealth, things, and that sound. It would be better if you died. That would solve the problem."
@@ -581,7 +581,7 @@ EOK
     },
 
     {
-      title => "Zen in a Beggar's Life", 
+      title => "Zen in a Beggar's Life",
       body => <<'EOK',
 Tosui was a well-known Zen teacher of his time. He had lived in several temples and taught in various provinces.
 The last temple he visited accumulated so many adherents that Tosui told them he was going to quit the lecture business entirely. He advised them to disperse and to go wherever they desired. After that no one could find any trace of him.
@@ -594,7 +594,7 @@ EOK
     },
 
     {
-      title => "The Thief Who Became a Disciple", 
+      title => "The Thief Who Became a Disciple",
       body => <<'EOK',
 One evening as Shichiri Kojun was reciting sutras a thief with a sharp sword entered, demanding wither his money or his life.
 Shichiri told him: "Do not disturb me. You can find the money in that drawer." Then he resumed his recitation.
@@ -606,7 +606,7 @@ EOK
     },
 
     {
-      title => "Right & Wrong", 
+      title => "Right & Wrong",
       body => <<'EOK',
 When Bankei held his seclusion-weeks of meditation, pupils from many parts of Japan came to attend. During one of these gatherings a pupil was caught stealing. The matter was reported to Bankei with the request that the culprit be expelled. Bankei ignored the case.
 Later the pupil was caught in a similar act, and again Bankei disregarded the matter. This angered the other pupils, who drew up a petition asking for the dismissal of the thief, stating that otherwise they would leave in a body.
@@ -616,7 +616,7 @@ EOK
     },
 
     {
-      title => "How Grass & Trees Become Enlightened", 
+      title => "How Grass & Trees Become Enlightened",
       body => <<'EOK',
 During the Kamakura period, Shinkan studied Tendai six years and then studied Zen seven years; then he went to China and contemplated Zen for thirteen years more.
 When he returned to Japan many desired to interview him and asked obscure questions. But when Shinkan received visitors, which was infrequently, he seldom answered their questions.
@@ -628,7 +628,7 @@ EOK
     },
 
     {
-      title => "The Stingy Artist", 
+      title => "The Stingy Artist",
       body => <<'EOK',
 Gessen was an artist monk. Before he would start a drawing or painting he always insisted upon being paid in advance, and his fees were high. He was known as the "Stingy Artist."
 A geisha once gave him a commission for a painting. "How much can you pay?" inquired Gessen.
@@ -649,7 +649,7 @@ EOK
     },
 
     {
-      title => "Accurate Proportion", 
+      title => "Accurate Proportion",
       body => <<'EOK',
 Sen no Rikyu, a tea-master, wished to hang a flower basket on a column. he asked a carpenter to help him, directing the man to place it a little higher or lower, to the right or left, until he had found exactly the right spot. "That's the place," said Sen no Rikyu finally.
 The carpenter, to test the master, marked the spot and then pretended he had forgotten. Was this the place? "Was this the place, perhaps?" the carpenter kept asking, pointing to various places on the column.
@@ -658,7 +658,7 @@ EOK
     },
 
     {
-      title => "Black-Nosed Buddha", 
+      title => "Black-Nosed Buddha",
       body => <<'EOK',
 A nun who was searching for enlightenment made a statue of Buddha and covered it with gold leaf. Wherever she went she carried this golden Buddha with her.
 Years passed and, still carrying her Buddha, the nun came to live in a small temple in a country where there were many Buddhas, each one with its own particular shrine.
@@ -667,7 +667,7 @@ EOK
     },
 
     {
-      title => "Ryonen's Clear Realization", 
+      title => "Ryonen's Clear Realization",
       body => <<'EOK',
 The Buddhist nun known as Ryonen was born in 1797. She was a granddaughter of the famous Japanese warrior Shingen. Her poetical genius and alluring beauty were such that at seventeen she was serving the empress as one of the ladies of the court. Even at such a youthful age fame awaited her.
 The beloved empress died suddenly and Ryonen's hopeful dreams vanished. She became acutely aware of the impermanency of life in this world. It was then that she desired to study Zen.
@@ -692,7 +692,7 @@ EOK
     },
 
     {
-      title => "Sour Miso", 
+      title => "Sour Miso",
       body => <<'EOK',
 The cook monk Dairyo, at Bankei's monastery, decided that he would take good care of his old teacher's health and give him only fresh miso, a paste of soy beans mixed with wheat and yeast that often ferments. Bankei, noticing that he was being served better miso than his pupils, asked: "Who is the cook today?"
 Dairyo was sent before him. Bankei learned that according to his age abd position he should eat only fresh miso. So he said to the cook: "Then you think I shouldn't eat at all." With this he entered his room and locked the door.
@@ -703,14 +703,14 @@ EOK
     },
 
     {
-      title => "Your Light May Go Out", 
+      title => "Your Light May Go Out",
       body => <<'EOK',
 A student of Tendai, a philosophical school of Buddhism, came to the Zen abode of Gasan as a pupil. When he was departing a few years later, Gasan warned him: "Studying the truth speculatively is useful as a way of collecting preaching material. But remember that unless you meditate constantly your light of truth may go out."
 EOK
     },
 
     {
-      title => "The Giver Should Be Thankful", 
+      title => "The Giver Should Be Thankful",
       body => <<'EOK',
 While Seisetsu was the master of Engaku in Kamakura he required larger quarters, since those in which he was teaching were overcrowded. Umezu Seibei, a merchant of Edo, decided to donate five hundred pieces of gold called ryo toward the construction of a more commodious school. This money he brought to the teacher.
 Seisetsu said: "All right. I will take it."
@@ -725,7 +725,7 @@ EOK
     },
 
     {
-      title => "The Last Will & Testament", 
+      title => "The Last Will & Testament",
       body => <<'EOK',
 Ikkyu, a famous Zen teacher of the Ashikaga era, was the son of the emperor. When he was very young, his mother left the palace and went to study Zen in a temple. In this way Prince Ikkyu also became a student. When his mother passed on, she left with him a letter. It read:
   To Ikkyu:
@@ -739,7 +739,7 @@ EOK
     },
 
     {
-      title => "The Tea-Master & the Assassin", 
+      title => "The Tea-Master & the Assassin",
       body => <<'EOK',
 Taiko, a warrior who lived in Japan before the Tokugawa era, studied Cha-no-yu, tea etiquette, with Sen no Rikyu, a teacher of that aesthetical expression of calmness and contentment.
 Taiko's attendant warrior Kato interpreted his superior's enthusiasm for tea etiquette as negligence of state affairs, so he decided to kill Sen no Rikyu. He pretended to make a social call upon the tea-master and was invited to drink tea.
@@ -753,7 +753,7 @@ EOK
     },
 
     {
-      title => "The True Path", 
+      title => "The True Path",
       body => <<'EOK',
 Just before Ninakawa passed away the Zen master Ikkyu visited him. "Shall I lead you on?" Ikkyu asked.
 Ninakawa replied: "I came here alone and I go alone. What help could you be to me?"
@@ -763,7 +763,7 @@ EOK
     },
 
     {
-      title => "The Gates of Paradise", 
+      title => "The Gates of Paradise",
       body => <<'EOK',
 A soldier named Nobushige came to Hakuin, and asked: "Is there really a paradise and a hell?"
 "Who are you?" inquired Hakuin.
@@ -777,7 +777,7 @@ EOK
     },
 
     {
-      title => "Arresting the Stone Buddha", 
+      title => "Arresting the Stone Buddha",
       body => <<'EOK',
 A merchant bearing fifty rolls of cotton goods on his shoulders stopped to rest from the heat of the day beneath a shelter where a large stone Buddha was standing. There he fell asleep, and when he awoke his goods had disappeared. He immediately reported the matter to the police.
 A judge named O-oka opened court to investigate. "That stone Buddha must have stolen the goods," concluded the judge. "He is supposed to care for the welfare of the people, but he has failed to perform his holy duty. Arrest him."
@@ -789,7 +789,7 @@ EOK
     },
 
     {
-      title => "Soldiers of Humanity", 
+      title => "Soldiers of Humanity",
       body => <<'EOK',
 Once a division of the Japanese army was engaged in a sham battle, and some of the officers found it necessary to make their headquarters in Gasan's temple.
 Gasan told his cook: "Let the officers have only the same simple fare we eat."
@@ -799,7 +799,7 @@ EOK
     },
 
     {
-      title => "The Tunnel", 
+      title => "The Tunnel",
       body => <<'EOK',
 Zenkai, the son of a samurai, journeyed to Edo and there became the retainer of a high official. He fell in love with the official's wife and was discovered. In self-defense, he slew the official. Then he ran away with the wife.
 Both of them later became thieves. But the woman was so greedy that Zenkai grew disgusted. Finally, leaving her, he journeyed far away to the province of Buzen, where he became a wandering mendicant.
@@ -815,7 +815,7 @@ EOK
     },
 
     {
-      title => "Gudo and the Emperor", 
+      title => "Gudo and the Emperor",
       body => <<'EOK',
 The emperor Goyozei was studying Zen under Gudo. He inquired: "In Zen this very mind is Buddha. Is this correct?"
 Gudo answered: "If I say yes, you will think that you understand without understanding. If I say no, I would be contradicting a fact which many understand quite well."
@@ -829,7 +829,7 @@ EOK
     },
 
     {
-      title => "In the Hands of Destiny", 
+      title => "In the Hands of Destiny",
       body => <<'EOK',
 A great Japanese warrior named Nobunaga decided to attack the enemy although he had only one-tenth the number of men the opposition commanded. He knew that he would win, but his soldiers were in doubt.
 On the way he stopped at a Shinto shrine and told his men: "After I visit the shrine I will toss a coin. If heads comes, we will win; if tails, we will lose. Destiny holds us in her hand."
@@ -840,14 +840,14 @@ EOK
     },
 
     {
-      title => "Killing", 
+      title => "Killing",
       body => <<'EOK',
 Gasan instructed his adherents one day: "Those who speak against killing and who desire to spare the lives of all conscious beings are right. It is good to protect even animals and insects. But what about those persons who kill time, what about those who are destroying wealth, and those who destroy political economy? We should not overlook them. Furthermore, what of the one who preaches without enlightenment? He is killing Buddhism."
 EOK
     },
 
     {
-      title => "Kasan Sweat", 
+      title => "Kasan Sweat",
       body => <<'EOK',
 Kasan was asked to officiate at the funeral of a provincial lord.
 He had never met lords and nobles before so he was nervous. When the ceremony started, Kasan sweat.
@@ -856,7 +856,7 @@ EOK
     },
 
     {
-      title => "The Subjugation of a Ghost", 
+      title => "The Subjugation of a Ghost",
       body => <<'EOK',
 A young wife fell sick and was about to die. "I love you so much," she told her husband, "I do not want to leave you. Do not go from me to any other woman. If you do, I will return as a ghost and cause you endless trouble."
 Soon the wife passed away. The husband respected her last wish for the first three months, but then he met another woman and fell in love with her. They became engaged to be married.
@@ -872,7 +872,7 @@ EOK
     },
 
     {
-      title => "Children of His Majesty", 
+      title => "Children of His Majesty",
       body => <<'EOK',
 Yamaoka Tesshu was a tutor of the emperor. He was also a master of fencing and a profound student of Zen.
 His home was the abode of vagabonds. He had but one suit of clothes, for they kept him always poor.
@@ -883,7 +883,7 @@ EOK
     },
 
     {
-      title => "What Are You Doing! What Are You Saying!", 
+      title => "What Are You Doing! What Are You Saying!",
       body => <<'EOK',
 In modern times a great deal of nonsense is talked about masters and disciples, and about the inheritance of a master's teaching by favorite pupils, entitling them to pass the truth on to their adherents. Of course Zen should be imparted in this way, from heart to heart, and in the past it was really accomplished. Silence and humility reigned rather than profession and assertion. The one who received such a teaching kept the matter hidden even after twenty years. Not until another discovered through his own need that a real master was at hand was it learned hat the teaching had been imparted, and even then the occasion arose quite naturally and the teaching made its way in its own right. Under no circumstances did the teacher even claim "I am the successor of So-and-so." Such a claim would prove quite the contrary.
 The Zen master Mu-nan had only one successor. His name was Shoju. After Shoju had completed his study of Zen, Mu-nan called him into his room. "I am getting old," he said, "and as far as I know, Shoju, you are the only one who will carry on this teaching. Here is a book. It has been passed down from master to master for seven generations. I also have added many points according to my understanding. The book is very valuable, and I am giving it to you to represent your successorship."
@@ -896,7 +896,7 @@ EOK
     },
 
     {
-      title => "One Note of Zen", 
+      title => "One Note of Zen",
       body => <<'EOK',
 After Kakua visited the emperor he disappeared and no one knew what became of him. He was the first Japanese to study Zen in China, but since he showed nothing of it, save one note, he is not remembered for having brought Zen into his country.
 Kakua visited China and accepted the true teaching. He did not travel while he was there. Meditating constantly, he lived on a remote part of a mountain. Whenever people found him and asked him to preach he would say a few words and then move to another part of the mountain where he could be found less easily.
@@ -906,7 +906,7 @@ EOK
     },
 
     {
-      title => "Eating the Blame", 
+      title => "Eating the Blame",
       body => <<'EOK',
 Circumstances arose one day which delayed preparation of the dinner of a Soto Zen master, Fugai, and his followers. In haste the cook went to the garden with his curved knife and cut off the tops of green vegetables, chopped them together, and made soup, unaware that in his haste he had included a part of a snake in the vegetables.
 The followers of Fugai thought they had never tasted such great soup. But when the master himself found the snake's head in his bowl, he summoned the cook. "What is this?" he demanded, holding up the head of the snake.
@@ -915,7 +915,7 @@ EOK
     },
 
     {
-      title => "The Most Valuable Thing in the World", 
+      title => "The Most Valuable Thing in the World",
       body => <<'EOK',
 Sozan, a Chinese Zen master, was asked by a student: "What is the most valuable thing in the world?"
 The master replied: "The head of a dead cat."
@@ -925,7 +925,7 @@ EOK
     },
 
     {
-      title => "Learning To Be Silent", 
+      title => "Learning To Be Silent",
       body => <<'EOK',
 The pupils of the Tendai school used to study meditation before Zen entered Japan. Four of them who were intimate friends promised one another to observe seven days of silence.
 On the first day all were silent. Their meditation had begun auspiciously, but when night came and the oil lamps were growing dim one of the pupils could not help exclaiming to a servant: "Fix those lamps."
@@ -936,7 +936,7 @@ EOK
     },
 
     {
-      title => "The Blockhead Lord", 
+      title => "The Blockhead Lord",
       body => <<'EOK',
 Two Zen teachers, Daigu and Gudo, were invited to visit a lord. Upon arriving, Gudo said to the lord: "You are wise by nature and have an inborn ability to learn Zen."
 "Nonsense," said Daigu. "Why do you flatter the blockhead? He may be a lord, but he doesn't know anything of Zen."
@@ -945,7 +945,7 @@ EOK
     },
 
     {
-      title => "Ten Successors", 
+      title => "Ten Successors",
       body => <<'EOK',
 Zen pupils take a vow that even if they are killed by their teacher, they intend to learn Zen. Usually they cut a finger and seal their resolution with blood. In time the vow has become a mere formality, and for this reason the pupil who died by the hand of Ekido was made to appear a martyr.
 Ekido had become a severe teacher. His pupils feared him. One of them on duty, striking the gong to tell the time of day, missed his beats when his eye was attracted by a beautiful girl passing the temple gate.
@@ -956,7 +956,7 @@ EOK
     },
 
     {
-      title => "True Reformation", 
+      title => "True Reformation",
       body => <<'EOK',
 Ryokan devoted his life to the study of Zen. One day he heard that his nephew, despite the admonitions of relatives, was spending his money on a courtesan. Inasmuch as the nephew had taken Ryokan's place in managing the family estate and the property was in danger of being dissipated, the relatives asked Ryokan to do something about it.
 Ryokan had to travel a long way to visit his nephew, whom he had not seen for many years. The nephew seemed pleased to meet his uncle again and invited him to remain overnight.
@@ -966,7 +966,7 @@ EOK
     },
 
     {
-      title => "Temper", 
+      title => "Temper",
       body => <<'EOK',
 A Zen student came to Bankei and complained: "Master, I have an ungovernable temper. How can I cure it?"
 "You have something very strange," replied Bankei. "Let me see what you have."
@@ -978,7 +978,7 @@ EOK
     },
 
     {
-      title => "The Stone Mind", 
+      title => "The Stone Mind",
       body => <<'EOK',
 Hogen, a Chinese Zen teacher, lived alone in a small temple in the country. One day four traveling monks appeared and asked if they might make a fire in his yard to warm themselves.
 While they were building the fire, Hogen heard them arguing about subjectivity and objectivity. He joined them and said: "There is a big stone. Do you consider it to be inside or outside your mind?"
@@ -988,7 +988,7 @@ EOK
     },
 
     {
-      title => "No Attachment to Dust", 
+      title => "No Attachment to Dust",
       body => <<'EOK',
 Zengetsu, a Chinese master of the T'ang dynasty, wrote the following advice for his pupils:
 Living in the world yet not forming attachments to the dust of the world is the way of a true Zen student.
@@ -1007,7 +1007,7 @@ EOK
     },
 
     {
-      title => "Real Prosperity", 
+      title => "Real Prosperity",
       body => <<'EOK',
 A rich man asked Sengai to write something for the continued prosperity of his family so that it might be treasured from generation to generation.
 Sengai obtained a large sheet of paper and wrote: "Father dies, son dies, grandson dies."
@@ -1017,7 +1017,7 @@ EOK
     },
 
     {
-      title => "Incense Burner", 
+      title => "Incense Burner",
       body => <<'EOK',
 A woman of Nagasaki named Kame was one of the few makers of incense burners in Japan. Such a burner is a work of art to be used only in a tearoom or before a family shrine.
 Kame, whose father before her had been such an artist, was fond of drinking. She also smoked and associated with men most of the time. Whenever she made a little money she gave a feast inviting artists, poets, carpenters, workers, men of many vocations and avocations. In their association she evolved her designs.
@@ -1029,7 +1029,7 @@ EOK
     },
 
     {
-      title => "The Real Miracle", 
+      title => "The Real Miracle",
       body => <<'EOK',
 When Bankei was preaching at Ryumon temple, a Shinshu priest, who believed in salvation through the repitition of the name of the Buddha of Love, was jealous of his large audience and wanted to debate with him.
 Bankei was in the midst of a talk when the priest appeared, but the fellow made such a disturbance that Bankei stopped his discourse and asked about the noise.
@@ -1039,7 +1039,7 @@ EOK
     },
 
     {
-      title => "Just Go To Sleep", 
+      title => "Just Go To Sleep",
       body => <<'EOK',
 Gasan was sitting at the bedside of Tekisui three days before his teacher's passing. Tekisui had already chosen him as his successor.
 A temple recently had burned and Gasan was busy rebuilding the structure. Tekisui asked him: "What are you going to do when you get the temple rebuilt?"
@@ -1052,7 +1052,7 @@ EOK
     },
 
     {
-      title => "Nothing Exists", 
+      title => "Nothing Exists",
       body => <<'EOK',
 Yamaoka Tesshu, as a young student of Zen, visited one master after another. He called upon Dokuon of Shokoku.
 Desiring to show his attainment, he said: "The mind, Buddha, and sentient beings, after all, do not exist. The true nature of phenomena is emptiness. There is no relaization, no delusion, no sage, no mediocrity. There is no giving and nothing to be received."
@@ -1062,7 +1062,7 @@ EOK
     },
 
     {
-      title => "No Work, No Food", 
+      title => "No Work, No Food",
       body => <<'EOK',
 Hyakujo, the Chinese Zen master, used to labor with his pupils even at the age of eighty, trimming the gardens, cleaning the grounds, and pruning the trees.
 The pupils felt sorry to see the old teacher working so hard, but they knew he would not listen to their advice to stop, so they hid away his tools.
@@ -1072,7 +1072,7 @@ EOK
     },
 
     {
-      title => "True Friends", 
+      title => "True Friends",
       body => <<'EOK',
 A long time ago in China there were two friends, one who played the harp skillfully and one who listened skillfully.
 When the one played or sang about a mountain, the other would say: "I can see the mountain before us."
@@ -1082,7 +1082,7 @@ EOK
     },
 
     {
-      title => "Time to Die", 
+      title => "Time to Die",
       body => <<'EOK',
 Ikkyu, the Zen master, was very clever even as a boy. His teacher had a precious teacup, a rare antique. Ikkyu happened to break this cup and was greatly perplexed. Hearing the footsteps of his teacher, he held the pieces of the cup behind him. When the master appeared, Ikkyu asked: "Why do people have to die?"
 "This is natural," explained the older man. "Everything has to die and has just so long to live."
@@ -1091,7 +1091,7 @@ EOK
     },
 
     {
-      title => "The Living Buddha & the Tubmaker", 
+      title => "The Living Buddha & the Tubmaker",
       body => <<'EOK',
 Zen masters give personal guidance in a secluded room. No one enters while teacher and pupil are together.
 Mokurai, the Zen master of Kennin temple in Kyoto, used to enjoy talking with merchants and newspapermen as well as with his pupils. A certain tubmaker was almost illiterate. He would ask foolish questions of Mokurai, have tea, and then go away.
@@ -1102,7 +1102,7 @@ EOK
     },
 
     {
-      title => "Three Kinds of Disciples", 
+      title => "Three Kinds of Disciples",
       body => <<'EOK',
 A Zen master named Gettan lived in the latter part of the Tokugawa era. He used to say: "There are three kinds of disciples: those who impart Zen to others, those who maintain the temples and shrines, and then there are the rice bags and the clothes-hangers."
 Gasan expressed the same idea. When he was studying under Tekisui, his teacher was very severe. Sometimes he even beat him. Other pupils would not stand this kind of teaching and quit. Gasan remained, saying: "A poor disciple utilizes a teacher's influence. A fair disciple admires a teacher's kindness. A good disciple grows strong under a teacher's discipline."
@@ -1110,7 +1110,7 @@ EOK
     },
 
     {
-      title => "How To Write a Chinese Poem", 
+      title => "How To Write a Chinese Poem",
       body => <<'EOK',
 A well-known Japanese poet was asked how to compose a Chinese poem.
 "The usual Chinese poem is four lines," he explained. "The first line contains the initial phrase; the second line, the continuation of that phrase; the third line turns from this subject and begins a new one; and the fourth line brings the first three lines together. A popular Japanese song illustrates this:
@@ -1123,7 +1123,7 @@ EOK
     },
 
     {
-      title => "Zen Dialogue", 
+      title => "Zen Dialogue",
       body => <<'EOK',
 Zen teachers train their young pupils to express themselves. Two Zen temples each had a child protege. One child, going to obtain vegetables each morning, would meet the other on the way.
 "Where are you going?" asked the one.
@@ -1141,7 +1141,7 @@ EOK
     },
 
     {
-      title => "The Last Rap", 
+      title => "The Last Rap",
       body => <<'EOK',
 Tangen had studied with Sengai since childhood. When he was twenty he wanted to leave his teacher and visit others for comparitive study, but Sengai would not permit this. Every time Tangen suggested it, Sengai would give him a rap on the head.
 Finally Tangen asked an elder brother to coax permission from Sengai. This the brother did and then reported to Tangen: "It is arranged. I have fixed it for you to start on your pilgrimage at once."
@@ -1152,7 +1152,7 @@ EOK
     },
 
     {
-      title => "The Taste of Banzo's Sword", 
+      title => "The Taste of Banzo's Sword",
       body => <<'EOK',
 Matajuro Yagyu was the son of a famous swordsman. His father, believing that his son's work was too mediocre to anticipate mastership, disowned him.
 So Matajuro went to Mount Futara and there found the famous swordsman Banzo. But Banzo confirmed the father's judgment. "You wish to learn swordsmanship under my guidance?" asked Banzo. "You cannot fulfill the requirements."
@@ -1175,7 +1175,7 @@ EOK
     },
 
     {
-      title => "Fire-Poker Zen", 
+      title => "Fire-Poker Zen",
       body => <<'EOK',
 Hakuin used to tell his pupils about an old woman who had a teashop, praising her understanding of Zen. The pupils refused to believe what he told them and would go to the teashop to find out for themselves.
 Whenever the woman saw them coming she could tell at once whether they had come for tea or to look into her grasp of Zen. In the former case, she would server them graciously. In the latter, she would beckon to the pupils to come behind her screen. The instant they obeyed, she would strike them with a fire-poker.
@@ -1184,7 +1184,7 @@ EOK
     },
 
     {
-      title => "Storyteller's Zen", 
+      title => "Storyteller's Zen",
       body => <<'EOK',
 Encho was a famous storyteller. His tales of love stirred the hearts of his listeners. When he narrated a story of war, it was as if the listeners themselves were on the field of battle.
 One day Encho met Yamaoka Tesshu, a layman who had almost embraced masterhood in Zen. "I understand," said Yamaoka, "you are the best storyteller in our land and that you make people cry or laugh at will. Tell me my favorite story of the Peach Boy. When I was a little tot I used to sleep beside my mother, and she often related this legend. In the middle of the story I would fall asleep. Tell it to me just as my mother did."
@@ -1197,7 +1197,7 @@ EOK
     },
 
     {
-      title => "Midnight Excursion", 
+      title => "Midnight Excursion",
       body => <<'EOK',
 Many Zen pupils were studing meditation under the Zen master Sengai. One of them used to arise at night, climb over the temple wall, and go to town on a pleasure jaunt.
 Sengai, inspecting the dormitory quarters, found this pupil missing one night and also discovered the high stool he had used to scale the well. Sengai removed the stool and stood there in its place.
@@ -1208,7 +1208,7 @@ EOK
     },
 
     {
-      title => "A Letter to a Dying Man", 
+      title => "A Letter to a Dying Man",
       body => <<'EOK',
 Bassui wrote the following letter to one of his disciples who was about to die:
 "The essence of your mind is not born, so it will never die. It is not an existence, which is perishable. It is not an emptiness, which is a mere void. It has neither color nor form. It enjoys no pleasures and suffers no pains.
@@ -1217,7 +1217,7 @@ EOK
     },
 
     {
-      title => "A Drop of Water", 
+      title => "A Drop of Water",
       body => <<'EOK',
 A Zen master named Gisan asked a young student to bring him a pail of water to cool his bath.
 The student brought the water and, after cooling the bath, threw on to the ground the little that was left over.
@@ -1227,7 +1227,7 @@ EOK
     },
 
     {
-      title => "Teaching the Ultimate", 
+      title => "Teaching the Ultimate",
       body => <<'EOK',
 In early times in Japan, bamboo-and-paper lanterns were used with candles inside. A blind man, visiting a friend one night, was offered a lantern to carry home with him.
 "I do not need a lantern," he said. "Darkness or light is all the same to me."
@@ -1239,7 +1239,7 @@ EOK
     },
 
     {
-      title => "Non-Attachment", 
+      title => "Non-Attachment",
       body => <<'EOK',
 Kitano Gempo, abbot of Eihei temple, was ninety-two years old when he passed away in the year 1933. He endeavored his whole like not to be attached to anything. As a wandering mendicant when he was twenty he happened to meet a traveler who smoked tobacco. As they walked together down a mountain road, they stopped under a tree to rest. The traveler offered Kitano a smoke, which he accepted, as he was very hungry at the time.
 "How pleasant this smoking is," he commented. The other gave him an extra pipe and tobacco and they parted.
@@ -1251,7 +1251,7 @@ EOK
     },
 
     {
-      title => "Tosui's Vinegar", 
+      title => "Tosui's Vinegar",
       body => <<'EOK',
 Tosui was the Zen master who left the formalism of temples to live under a bridge with beggars. When he was getting very old, a friend helped him earn his living without begging. He showed Tosui how to collect rice and manufacture vinegar from it, and Tosui did this until he passed away.
 While Tosui was making vinegar, one of the beggars gave him a picture of the Buddha. Tosui hung it on the wall of his hut and put a sign beside it. The sign read:
@@ -1260,7 +1260,7 @@ EOK
     },
 
     {
-      title => "The Silent Temple", 
+      title => "The Silent Temple",
       body => <<'EOK',
 Shoichi was a one-eyed teacher of Zen, sparkling with enlightenment. He taught his disciples in Tofuku temple.
 Day and night the whole temple stood in silence. There was no sound at all.
@@ -1270,7 +1270,7 @@ EOK
     },
 
     {
-      title => "Buddha's Zen", 
+      title => "Buddha's Zen",
       body => <<'EOK',
 Buddha said: "I consider the positions of kings and rulers as that of dust motes. I observe treasures of gold and gems as so many bricks and pebbles. I look upon the finest silken robes as tattered rags. I see myriad worlds of the universe as small seeds of fruit, and the greatest lake in India as a drop of oil on my foot. I perceive the teachings of the world to be the illusion of magicians. I discern the highest conception of emancipation as a golden brocade in a dream, and view the holy path of the illuminated ones as flowers appearing in one's eyes. I see meditation as a pillar of a mountain, Nirvana as a nightmare of daytime. I look upon the judgment of right and wrong as the serpentine dance of a dragon, and the rise and fall of beliefs as but traces left by the four seasons."
 EOK
@@ -1283,7 +1283,7 @@ sub get_koan {
     my $num = shift;
     my $total = num_koans;
     croak "You must supply num=[1-$total]\n" unless defined $num;
-    croak "Please set num to a number between 1 and $total\n" 
+    croak "Please set num to a number between 1 and $total\n"
         unless $num =~ /^(\d+)$/ and $1 > 0 and $1 <= $total;;
     $num = $1; # untaint
 
@@ -1375,6 +1375,6 @@ Thanks to Lech Baczynski for dump_fortunes.
 
 =head1 DISCLAIMER OF WARRANTY
 
-This module can only offer you so much.  
+This module can only offer you so much.
 It is up to you to make the most of it.
 
