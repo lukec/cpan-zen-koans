@@ -1,5 +1,8 @@
 Zen-Koans
 
+0.05 - 17 January 2011
+ - fixed some whitespace, spelling and typos (Thank you https://github.com/trammell)
+
 0.04 - 7 March 2006
  - updated Zen::Koans usage POD
  - received patch from Lech Baczynski to create a fortune file

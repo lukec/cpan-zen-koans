@@ -6,7 +6,7 @@ our @EXPORT_OK = qw($VERSION get_koan num_koans dump_fortunes);
 use Carp qw(croak);
 use Zen::Koan;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 our @koans = (
     {
